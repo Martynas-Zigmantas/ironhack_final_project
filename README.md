@@ -108,6 +108,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Numpy][Numpy.js]][Numpy-url]
 * [![Scikit Learn][Scikit.js]][Scikit-url]
 * [![Selenium][Selenium.js]][Selenium-url]
+* [![MySQL][MySQL.js]][MySQL-url]
+* [![Tableau][Tableau.js]][Tableau-url]
+* [![Streamlit][Streamlit.js]][Streamlit-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -268,3 +271,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [Scikit-url]: https://scikit-learn.org/stable/
 [Selenium.js]: https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white
 [Selenium-url]: https://www.selenium.dev/
+[MySQL.js]: https://img.shields.io/badge/mysql%20workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+[MySQL-url]: https://www.mysql.com/
+[Tableau.js]: https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white
+[Tableau-url]: https://public.tableau.com/app/discover
+[Streamlit.js]: https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white
+[Streamlit-url]: https://streamlit.io/
