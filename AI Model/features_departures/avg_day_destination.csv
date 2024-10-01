@@ -1,0 +1,3893 @@
+destination_city,day,avg_day_destination
+Vienna,2,18.875
+Zurich,2,27.7
+Malaga,2,7.0
+Paris,2,32.69230769230769
+Edinburgh,2,43.916666666666664
+Aberdeen,2,44.0
+Amsterdam,2,35.142857142857146
+Frankfurt,2,20.5
+Warsaw,2,37.42857142857143
+Barcelona,2,30.857142857142858
+Geneva,2,34.23076923076923
+Istanbul,2,54.81818181818182
+Prague,2,31.25
+Rome,2,36.42857142857143
+Stockholm,2,54.333333333333336
+Copenhagen,2,28.8
+Dublin,2,29.956521739130434
+Manchester,2,43.125
+Brussels,2,25.272727272727273
+Munich,2,44.30434782608695
+Larnaca,2,35.4
+Marseille,2,81.4
+Oslo,2,13.7
+Athens,2,37.81818181818182
+Glasgow,2,50.5
+Hamburg,2,38.0
+Newcastle,2,42.2
+Thessaloniki,2,18.5
+Gibraltar,2,34.5
+Lisbon,2,24.1
+Nice,2,37.44444444444444
+Split,2,13.8
+Berlin,2,48.4
+Cologne/Bonn,2,33.27272727272727
+New York,2,32.13793103448276
+Faro,2,9.333333333333334
+Helsinki,2,11.875
+Toulouse,2,55.666666666666664
+Belfast,2,45.285714285714285
+Budapest,2,34.0
+Bologna,2,30.25
+Lyon,2,14.0
+Madrid,2,17.153846153846153
+Reykjavik,2,17.4
+Thira,2,47.0
+Valencia,2,68.0
+Montego Bay,2,21.0
+Chicago,2,37.2
+Kerkyra,2,53.0
+Doha,2,36.72727272727273
+Hannover,2,29.5
+Tirana,2,70.66666666666667
+Kalamata,2,54.0
+Pisa,2,35.333333333333336
+Stuttgart,2,18.09090909090909
+Boston,2,49.0
+Luxembourg,2,13.4
+Toronto,2,26.6
+Mulhouse/Basel,2,19.0
+Dallas,2,45.5
+Derry,2,101.33333333333333
+Bucharest,2,36.75
+Venice,2,63.5
+Dubai,2,37.4
+Milan,2,53.25
+Tokyo,2,37.8
+Charlotte,2,25.333333333333332
+Goteborg,2,18.666666666666668
+Mykonos,2,50.5
+Minneapolis/Saint Paul,2,6.0
+Cork,2,16.5
+Houston,2,23.5
+Singapore,2,28.2
+Abu Dhabi,2,36.2
+Raleigh/Durham,2,8.0
+Montreal,2,23.0
+Delhi,2,36.714285714285715
+Nairobi,2,31.5
+Phoenix,2,29.0
+Orkney,2,31.0
+Mumbai,2,43.0
+Naples,2,25.25
+Seattle,2,20.75
+Shannon,2,21.666666666666668
+Funchal,2,21.0
+Riyadh,2,39.5
+Bahrain,2,49.333333333333336
+Grand Cayman,2,40.0
+Los Angeles,2,-16.5
+Palma de Mallorca,2,9.166666666666666
+San Francisco,2,30.428571428571427
+Calgary,2,20.0
+Cairo,2,52.4
+Miami,2,46.0
+Zagreb,2,65.0
+Malta,2,22.333333333333332
+Duesseldorf,2,62.5
+Kuala Lumpur,2,35.5
+Philadelphia,2,20.666666666666668
+Denver,2,25.666666666666668
+Galway,2,42.0
+Ljubljana,2,36.0
+Kingstown,2,26.0
+Bridgetown,2,26.0
+Dalaman,2,49.0
+Atlanta,2,25.4
+Austin,2,22.0
+Lagos,2,39.0
+Perth,2,61.0
+Isle of Man,2,17.0
+Detroit,2,21.0
+Saint Helier,2,45.0
+Shanghai,2,75.5
+Washington,2,23.0
+San Diego,2,58.5
+Hong Kong,2,51.2
+Bengaluru,2,72.5
+Bangkok,2,35.0
+Accra,2,39.0
+Halifax,2,20.0
+Chennai,2,0.0
+Ibiza,2,17.5
+Beirut,2,20.5
+Inverness,2,59.0
+Belgrade,2,27.5
+Billund,2,14.0
+Sofia,2,38.0
+Tampa,2,17.0
+Hyderabad,2,58.0
+Beijing,2,43.75
+Mexico City,2,29.5
+Krakow,2,13.0
+Orlando,2,30.0
+Tel Aviv-Yafo,2,67.0
+Portland,2,32.0
+Bermuda,2,18.0
+Cincinnati,2,32.0
+Nashville,2,34.0
+Baltimore,2,46.0
+Kuwait,2,33.5
+Olbia,2,13.5
+Amman,2,30.0
+Pittsburgh,2,49.0
+Luxor,2,48.0
+Las Vegas,2,29.0
+Vancouver,2,36.0
+Jeddah,2,35.5
+Casablanca,2,29.0
+Algiers,2,4.0
+Dundee,2,85.0
+Hanoi,2,34.0
+Johannesburg,2,32.333333333333336
+Seoul,2,22.5
+Muscat,2,39.0
+Addis Ababa,2,47.0
+Sydney,2,44.0
+Sao Paulo,2,40.5
+Kigali,2,16.0
+Sanya,2,20.0
+Colombo,2,82.0
+Taipei,2,32.0
+Buenos Aires,2,32.0
+Santiago,2,59.0
+Haikou,2,59.0
+Bogota,2,13.0
+Guangzhou,2,7.0
+Abuja,2,25.0
+Qingdao,2,25.0
+Lisbon,3,25.2
+Vienna,3,18.526315789473685
+Zurich,3,25.818181818181817
+Barcelona,3,24.333333333333332
+Paris,3,46.4
+Edinburgh,3,21.6875
+Amsterdam,3,25.40909090909091
+Rome,3,33.625
+Frankfurt,3,21.964285714285715
+Prague,3,27.8
+Warsaw,3,23.0
+Stockholm,3,15.75
+Istanbul,3,44.8
+Geneva,3,30.46153846153846
+Copenhagen,3,19.9375
+Tel Aviv-Yafo,3,56.5
+Malaga,3,7.666666666666667
+Dublin,3,15.12
+Manchester,3,39.8
+Brussels,3,33.36363636363637
+Munich,3,32.19230769230769
+Athens,3,43.0
+Larnaca,3,33.75
+Marseille,3,21.5
+Aberdeen,3,24.25
+Gibraltar,3,22.5
+Glasgow,3,23.9
+Oslo,3,26.6
+Hamburg,3,48.42857142857143
+Milan,3,37.888888888888886
+Newcastle,3,61.4
+Reykjavik,3,11.4
+Berlin,3,28.142857142857142
+Budapest,3,34.0
+New York,3,34.83870967741935
+Cologne/Bonn,3,21.4
+Helsinki,3,10.0
+Nice,3,28.09090909090909
+Belfast,3,22.666666666666668
+Saint Helier,3,31.5
+Bologna,3,22.25
+Mykonos,3,24.0
+Toulouse,3,19.333333333333332
+Belgrade,3,38.0
+Lyon,3,75.0
+Madrid,3,31.0
+Thira,3,31.0
+Atlanta,3,91.66666666666667
+Doha,3,38.90909090909091
+Duesseldorf,3,28.428571428571427
+Montego Bay,3,20.0
+Naples,3,23.5
+Florence,3,26.5
+Chicago,3,80.1
+Tirana,3,30.666666666666668
+Mulhouse/Basel,3,34.333333333333336
+Luxembourg,3,24.0
+Pisa,3,21.666666666666668
+Boston,3,32.57142857142857
+Toronto,3,50.833333333333336
+Stuttgart,3,18.333333333333332
+Dallas,3,24.0
+Venice,3,21.5
+Zagreb,3,18.0
+Derry,3,16.0
+Goteborg,3,41.333333333333336
+Dubai,3,40.55555555555556
+Tokyo,3,35.8
+Cairo,3,48.833333333333336
+Orlando,3,26.0
+Minneapolis/Saint Paul,3,14.0
+Cork,3,10.75
+Houston,3,72.0
+Singapore,3,29.0
+Funchal,3,36.0
+Abu Dhabi,3,34.4
+Raleigh/Durham,3,25.0
+Montreal,3,19.333333333333332
+Palma de Mallorca,3,23.636363636363637
+Delhi,3,38.625
+Nairobi,3,96.5
+Phoenix,3,32.0
+Shetland,3,38.0
+Mumbai,3,51.833333333333336
+Seattle,3,27.0
+Shannon,3,18.333333333333332
+Riyadh,3,41.75
+Bahrain,3,26.666666666666668
+Kerkyra,3,51.5
+Grand Cayman,3,38.0
+Los Angeles,3,24.09090909090909
+San Francisco,3,25.428571428571427
+Calgary,3,28.0
+Heraklion,3,21.0
+Miami,3,38.6
+Malta,3,20.666666666666668
+Salt Lake City,3,37.0
+Kuala Lumpur,3,33.5
+Philadelphia,3,72.66666666666667
+Denver,3,29.333333333333332
+Kefallinia,3,33.0
+Galway,3,32.0
+Grenada,3,27.0
+Bridgetown,3,34.0
+Austin,3,35.0
+Lagos,3,49.5
+Faro,3,18.5
+Perth,3,49.0
+Isle of Man,3,30.0
+Bucharest,3,29.75
+Detroit,3,32.0
+Shanghai,3,40.0
+Charlotte,3,31.5
+San Diego,3,53.5
+Hong Kong,3,50.25
+Bengaluru,3,67.0
+Bangkok,3,21.5
+Washington,3,36.0
+Accra,3,25.0
+Halifax,3,23.0
+Chennai,3,39.0
+Beirut,3,23.333333333333332
+Ljubljana,3,48.0
+Figari,3,29.0
+Hannover,3,31.5
+Ibiza,3,52.0
+Inverness,3,39.0
+Billund,3,19.0
+Brindisi,3,56.0
+Vancouver,3,21.5
+Tampa,3,27.0
+Algiers,3,61.0
+Split,3,28.5
+Hyderabad,3,69.0
+Beijing,3,18.4
+Mexico City,3,28.0
+Sofia,3,20.5
+Valencia,3,20.333333333333332
+Portland,3,32.0
+Bermuda,3,25.0
+Las Vegas,3,28.0
+Dubrovnik,3,18.666666666666668
+Nashville,3,35.0
+Riga,3,53.666666666666664
+Tashkent,3,31.0
+Jeddah,3,22.0
+Baltimore,3,33.0
+Kuwait,3,44.0
+Amman,3,28.0
+Pittsburgh,3,41.0
+Tunis,3,18.0
+Tehran,3,38.0
+Almaty,3,65.0
+Casablanca,3,26.0
+Male,3,20.0
+Islamabad,3,159.0
+Dundee,3,13.0
+Johannesburg,3,30.333333333333332
+Seoul,3,49.0
+Stavanger,3,-1.0
+Sydney,3,20.0
+Muscat,3,16.0
+Taipei,3,31.0
+Addis Ababa,3,42.0
+Sao Paulo,3,27.0
+Kigali,3,26.0
+Sanya,3,8.0
+Colombo,3,28.0
+Buenos Aires,3,34.0
+Chengdu,3,30.0
+Bogota,3,6.0
+Baku,3,32.0
+Guangzhou,3,13.0
+Abuja,3,23.0
+Cape Town,3,27.0
+Vienna,4,24.0
+Marseille,4,26.25
+Oslo,4,18.75
+Frankfurt,4,41.94117647058823
+Glasgow,4,35.90909090909091
+Hamburg,4,39.285714285714285
+Milan,4,42.44444444444444
+Munich,4,38.53333333333333
+Stockholm,4,36.2
+Valencia,4,32.0
+Gibraltar,4,30.5
+Lisbon,4,45.72727272727273
+Nice,4,38.625
+Newcastle,4,46.6
+Athens,4,42.666666666666664
+Budapest,4,35.0
+New York,4,25.419354838709676
+Berlin,4,38.57142857142857
+Helsinki,4,17.5
+Ibiza,4,23.0
+Warsaw,4,21.0
+Bologna,4,37.0
+Dublin,4,21.61904761904762
+Thessaloniki,4,28.0
+Belfast,4,35.142857142857146
+Brussels,4,29.285714285714285
+Aberdeen,4,23.666666666666668
+Saint Helier,4,32.6
+Palermo,4,19.0
+Edinburgh,4,34.833333333333336
+Geneva,4,27.09090909090909
+Madrid,4,30.7
+Pisa,4,36.0
+Reykjavik,4,24.666666666666668
+Rome,4,45.57142857142857
+Duesseldorf,4,47.142857142857146
+Montego Bay,4,34.0
+Dallas,4,35.6
+Mulhouse/Basel,4,38.333333333333336
+Doha,4,52.75
+Florence,4,37.0
+Amsterdam,4,26.75
+Zurich,4,33.81818181818182
+Barcelona,4,86.9
+Paris,4,36.6
+Prague,4,22.4
+Malaga,4,13.0
+Copenhagen,4,26.545454545454547
+Istanbul,4,48.44444444444444
+Chania,4,50.0
+Tel Aviv-Yafo,4,49.666666666666664
+Cologne/Bonn,4,74.2
+Larnaca,4,42.0
+Manchester,4,43.666666666666664
+Luxembourg,4,55.5
+Preveza/Lefkada,4,14.0
+Tirana,4,45.5
+Venice,4,52.8
+Boston,4,34.125
+Stuttgart,4,17.0
+Chicago,4,1.9
+Toronto,4,30.666666666666668
+Zagreb,4,92.5
+Derry,4,18.0
+Lyon,4,23.0
+Dubai,4,41.4
+Tokyo,4,31.6
+Charlotte,4,23.0
+Orlando,4,35.5
+Minneapolis/Saint Paul,4,7.0
+Cork,4,17.25
+Goteborg,4,21.333333333333332
+Houston,4,30.5
+Mykonos,4,51.0
+Singapore,4,47.6
+Abu Dhabi,4,63.2
+Raleigh/Durham,4,22.0
+Montreal,4,25.666666666666668
+Palma de Mallorca,4,79.5
+Cairo,4,55.4
+Delhi,4,59.0
+Nairobi,4,80.5
+Phoenix,4,22.5
+Dundee,4,12.5
+Mumbai,4,55.5
+Seattle,4,28.0
+Shannon,4,13.666666666666666
+Funchal,4,25.0
+Bahrain,4,42.666666666666664
+Grand Cayman,4,40.0
+Los Angeles,4,37.0
+Bucharest,4,69.66666666666667
+Riyadh,4,37.25
+San Francisco,4,32.42857142857143
+Thira,4,46.0
+Naples,4,24.0
+Calgary,4,18.5
+Miami,4,17.4
+Kerkyra,4,27.0
+Malta,4,27.5
+Kuala Lumpur,4,34.5
+Philadelphia,4,25.333333333333332
+Salt Lake City,4,11.0
+Denver,4,21.333333333333332
+Galway,4,-10.0
+Kingstown,4,20.0
+Bridgetown,4,19.0
+Atlanta,4,22.4
+Kuwait,4,54.0
+Austin,4,21.0
+Lagos,4,50.5
+Perth,4,45.0
+Isle of Man,4,21.0
+Detroit,4,13.0
+Shanghai,4,46.5
+Washington,4,33.2
+San Diego,4,22.5
+Hong Kong,4,48.857142857142854
+Paphos,4,52.0
+Bengaluru,4,44.5
+Bangkok,4,27.0
+Accra,4,81.0
+Halifax,4,14.0
+Bodrum,4,40.0
+Chennai,4,63.0
+Beirut,4,26.5
+Hannover,4,51.5
+Inverness,4,58.0
+Belgrade,4,25.0
+Billund,4,14.0
+Split,4,13.0
+Ljubljana,4,25.0
+Vancouver,4,28.0
+Toulouse,4,46.0
+Tampa,4,133.0
+Mexico City,4,26.0
+Portland,4,23.0
+Bermuda,4,48.0
+Las Vegas,4,27.0
+Jeddah,4,23.0
+New Orleans,4,42.0
+Dubrovnik,4,47.0
+Nashville,4,49.0
+Cincinnati,4,81.0
+Krakow,4,25.0
+Faro,4,54.0
+Baltimore,4,48.0
+Olbia,4,31.0
+Amman,4,23.5
+Pittsburgh,4,30.0
+Bandar Seri Begawan,4,69.0
+Sofia,4,95.0
+Casablanca,4,96.5
+Dhaka,4,21.0
+Hanoi,4,34.0
+Johannesburg,4,-143.66666666666666
+Wuhan,4,29.0
+Seoul,4,49.0
+Stavanger,4,16.0
+Beijing,4,32.333333333333336
+Sydney,4,49.5
+Muscat,4,35.0
+Addis Ababa,4,40.0
+Sao Paulo,4,25.5
+Kigali,4,35.0
+Sanya,4,24.0
+Colombo,4,39.0
+Taipei,4,50.5
+Buenos Aires,4,26.0
+Santiago,4,17.0
+Chongqing,4,3.0
+Haikou,4,25.0
+Bogota,4,21.0
+Shenzhen,4,17.0
+Guangzhou,4,25.0
+Abuja,4,21.0
+Cape Town,4,28.0
+Lisbon,5,75.23076923076923
+Vienna,5,34.05555555555556
+Zurich,5,42.43478260869565
+Barcelona,5,35.53333333333333
+Paris,5,57.714285714285715
+Prague,5,52.166666666666664
+Edinburgh,5,49.3125
+Amsterdam,5,66.5
+Frankfurt,5,33.903225806451616
+Geneva,5,48.416666666666664
+Naples,5,70.75
+Warsaw,5,54.77777777777778
+Aberdeen,5,54.125
+Copenhagen,5,33.611111111111114
+Istanbul,5,68.9
+Stockholm,5,26.5
+Tel Aviv-Yafo,5,70.5
+Dublin,5,63.04
+Rome,5,76.0
+Brussels,5,49.0
+Mykonos,5,18.0
+Gibraltar,5,39.5
+Marseille,5,39.8
+Munich,5,49.68
+Larnaca,5,64.2
+Manchester,5,53.4
+Cologne/Bonn,5,47.09090909090909
+Milan,5,50.25
+Oslo,5,38.75
+Glasgow,5,90.8
+Budapest,5,21.833333333333332
+Saint Helier,5,67.0
+Nice,5,62.666666666666664
+Athens,5,62.27272727272727
+Berlin,5,48.833333333333336
+New York,5,56.7
+Belfast,5,44.857142857142854
+Helsinki,5,15.875
+Newcastle,5,63.75
+Reykjavik,5,25.5
+Bologna,5,105.8
+Toulouse,5,42.25
+Malaga,5,26.2
+Inverness,5,81.5
+Lyon,5,85.0
+Madrid,5,49.214285714285715
+Zagreb,5,19.0
+Doha,5,60.81818181818182
+Duesseldorf,5,67.85714285714286
+Montego Bay,5,27.0
+Pisa,5,54.666666666666664
+Dallas,5,33.0
+Florence,5,87.5
+Hannover,5,40.666666666666664
+Thessaloniki,5,10.25
+Dubrovnik,5,23.0
+Luxembourg,5,3.0
+Tirana,5,78.5
+Venice,5,52.166666666666664
+Boston,5,50.5
+Chicago,5,62.2
+Toronto,5,76.0
+Palma de Mallorca,5,13.181818181818182
+Mulhouse/Basel,5,6.333333333333333
+Kerkyra,5,34.0
+Goteborg,5,27.333333333333332
+Hamburg,5,78.42857142857143
+Stuttgart,5,24.5
+Derry,5,60.333333333333336
+Cairo,5,87.0
+Dubai,5,56.5
+Tokyo,5,67.2
+Charlotte,5,47.0
+Bucharest,5,101.25
+Zakynthos Island,5,31.0
+Orlando,5,64.0
+Minneapolis/Saint Paul,5,13.0
+Cork,5,92.0
+Faro,5,40.333333333333336
+Houston,5,19.75
+Singapore,5,51.6
+Abu Dhabi,5,59.2
+Raleigh/Durham,5,8.0
+Montreal,5,13.333333333333334
+Philadelphia,5,90.66666666666667
+Delhi,5,75.75
+Nairobi,5,33.5
+Seattle,5,41.5
+Shetland,5,53.0
+Mumbai,5,104.16666666666667
+Shannon,5,97.66666666666667
+Funchal,5,10.0
+Riyadh,5,55.5
+Bahrain,5,55.666666666666664
+Providenciales,5,26.0
+Los Angeles,5,78.54545454545455
+San Francisco,5,36.42857142857143
+Thira,5,85.0
+Calgary,5,108.5
+Miami,5,58.0
+Valencia,5,12.0
+Malta,5,50.5
+Salt Lake City,5,20.0
+Kuala Lumpur,5,26.5
+Phoenix,5,67.0
+Denver,5,46.666666666666664
+Galway,5,44.0
+Kalamata,5,60.0
+Antigua,5,95.0
+Bridgetown,5,21.0
+Chania,5,49.0
+Atlanta,5,89.4
+Split,5,24.5
+Ibiza,5,45.666666666666664
+Austin,5,21.0
+Lagos,5,89.5
+Tenerife,5,58.0
+Perth,5,31.0
+Isle of Man,5,91.0
+Detroit,5,25.0
+Shanghai,5,59.5
+Washington,5,52.2
+San Diego,5,97.5
+Hong Kong,5,97.14285714285714
+Bengaluru,5,101.5
+Bangkok,5,45.0
+Accra,5,141.0
+Halifax,5,18.0
+Billund,5,51.0
+Chennai,5,39.0
+Beirut,5,56.0
+Rhodes,5,55.0
+Belgrade,5,65.33333333333333
+Vancouver,5,60.5
+Tampa,5,96.0
+Bermuda,5,104.0
+Ljubljana,5,139.0
+Beijing,5,47.6
+Mexico City,5,96.0
+Sofia,5,64.5
+Portland,5,71.0
+Brindisi,5,150.0
+Las Vegas,5,80.5
+Jeddah,5,108.5
+New Orleans,5,145.0
+Nashville,5,91.0
+Baltimore,5,112.0
+Kuwait,5,107.5
+Amman,5,73.5
+Pittsburgh,5,126.0
+Tehran,5,72.0
+Almaty,5,90.0
+Casablanca,5,86.0
+Male,5,71.0
+Dundee,5,88.0
+Johannesburg,5,33.333333333333336
+Ho Chi Minh City,5,96.0
+Seoul,5,41.0
+Stavanger,5,18.0
+Sydney,5,67.5
+Muscat,5,81.0
+Addis Ababa,5,41.0
+Sao Paulo,5,29.5
+Kigali,5,33.0
+Sanya,5,32.0
+Colombo,5,99.0
+Taipei,5,47.0
+Buenos Aires,5,43.0
+Santiago,5,97.0
+Chengdu,5,12.0
+Bogota,5,40.0
+Baku,5,52.0
+Guangzhou,5,48.0
+Abuja,5,55.0
+Cape Town,5,59.0
+Lisbon,6,31.1875
+Vienna,6,21.5
+Zurich,6,25.76923076923077
+Barcelona,6,37.23809523809524
+Paris,6,42.57142857142857
+Edinburgh,6,33.6
+Prague,6,38.8
+Amsterdam,6,18.029411764705884
+Frankfurt,6,19.627906976744185
+Geneva,6,35.84615384615385
+Warsaw,6,30.545454545454547
+Istanbul,6,60.9
+Athens,6,34.5
+Stockholm,6,32.44444444444444
+Copenhagen,6,19.347826086956523
+Tel Aviv-Yafo,6,60.0
+Dublin,6,39.851851851851855
+Manchester,6,32.75
+Brussels,6,26.933333333333334
+Rome,6,45.42857142857143
+Malaga,6,37.857142857142854
+Munich,6,25.774193548387096
+Cologne/Bonn,6,33.833333333333336
+Heraklion,6,31.166666666666668
+Larnaca,6,37.0
+Gibraltar,6,85.5
+Marseille,6,22.2
+Oslo,6,16.916666666666668
+Glasgow,6,52.63636363636363
+Milan,6,31.857142857142858
+Berlin,6,-37.166666666666664
+Newcastle,6,44.0
+New York,6,42.36666666666667
+Aberdeen,6,44.42857142857143
+Helsinki,6,16.083333333333332
+Nice,6,18.09090909090909
+Belfast,6,48.857142857142854
+Reykjavik,6,32.42857142857143
+Toulouse,6,49.0
+Hamburg,6,53.57142857142857
+Saint Helier,6,39.166666666666664
+Tenerife,6,18.666666666666668
+Tirana,6,39.25
+Belgrade,6,17.166666666666668
+Madrid,6,22.529411764705884
+Venice,6,24.8
+Doha,6,29.53846153846154
+Duesseldorf,6,29.714285714285715
+Luxembourg,6,14.2
+Montego Bay,6,43.0
+Dallas,6,55.25
+Florence,6,31.0
+Mulhouse/Basel,6,19.666666666666668
+Thira,6,121.0
+Lyon,6,39.5
+Budapest,6,22.666666666666668
+Sofia,6,20.8
+Boston,6,30.375
+Chicago,6,45.666666666666664
+Toronto,6,36.666666666666664
+Stuttgart,6,34.111111111111114
+Pisa,6,26.75
+Derry,6,46.0
+Goteborg,6,37.0
+Kuala Lumpur,6,54.0
+Dubai,6,36.0
+Tokyo,6,46.2
+Charlotte,6,64.0
+Houston,6,59.5
+Orlando,6,44.5
+Minneapolis/Saint Paul,6,32.0
+Cork,6,65.5
+Funchal,6,29.0
+Bucharest,6,22.2
+Singapore,6,29.285714285714285
+Zagreb,6,52.666666666666664
+Abu Dhabi,6,29.4
+Raleigh/Durham,6,-17.0
+Montreal,6,43.333333333333336
+Philadelphia,6,58.666666666666664
+Cairo,6,54.5
+Delhi,6,58.714285714285715
+Nairobi,6,70.5
+Split,6,8.2
+Orkney,6,106.0
+Mumbai,6,87.16666666666667
+Palma de Mallorca,6,14.409090909090908
+Seattle,6,47.0
+Shannon,6,72.0
+Riyadh,6,45.0
+Bahrain,6,51.0
+Faro,6,47.666666666666664
+Los Angeles,6,60.18181818181818
+San Francisco,6,56.142857142857146
+Calgary,6,51.5
+Miami,6,60.8
+Ibiza,6,13.5
+Malta,6,32.0
+Phoenix,6,54.5
+Denver,6,39.0
+Galway,6,49.0
+Bridgetown,6,46.5
+Naples,6,36.0
+Dalaman,6,55.0
+Atlanta,6,37.0
+Dubrovnik,6,32.0
+Chania,6,19.333333333333332
+Kuwait,6,33.666666666666664
+Austin,6,84.0
+Lagos,6,35.0
+Perth,6,88.0
+Isle of Man,6,65.0
+Kerkyra,6,42.5
+Mykonos,6,81.0
+Detroit,6,17.0
+Shanghai,6,80.0
+Washington,6,34.6
+San Diego,6,18.0
+Hong Kong,6,45.142857142857146
+Bengaluru,6,45.5
+Bangkok,6,29.5
+Bologna,6,9.2
+Accra,6,100.0
+Halifax,6,25.0
+Chennai,6,162.0
+Beirut,6,20.333333333333332
+Inverness,6,55.0
+Billund,6,59.0
+Vancouver,6,41.0
+Tampa,6,46.0
+Riga,6,5.0
+Algiers,6,28.0
+Hannover,6,59.0
+Palermo,6,28.0
+Mexico City,6,30.5
+Portland,6,65.0
+Bermuda,6,24.0
+Jeddah,6,24.0
+Ljubljana,6,38.0
+Las Vegas,6,58.0
+Nashville,6,126.0
+Cincinnati,6,43.0
+Tashkent,6,39.0
+Baltimore,6,30.0
+Olbia,6,14.666666666666666
+Amman,6,34.5
+Krakow,6,28.333333333333332
+Pittsburgh,6,85.0
+Bandar Seri Begawan,6,35.0
+Casablanca,6,23.0
+Dhaka,6,19.0
+Islamabad,6,42.0
+Dundee,6,83.0
+Almaty,6,29.0
+Johannesburg,6,23.333333333333332
+Seoul,6,52.5
+Stavanger,6,15.0
+Taipei,6,50.5
+Beijing,6,20.0
+Sydney,6,30.5
+Muscat,6,31.0
+Addis Ababa,6,32.0
+Sao Paulo,6,25.5
+Kigali,6,23.0
+Sanya,6,14.0
+Colombo,6,26.0
+Buenos Aires,6,21.0
+Tianjin,6,10.0
+Haikou,6,67.0
+Bogota,6,24.0
+Shenzhen,6,1.0
+Qingdao,6,21.0
+Guangzhou,6,5.0
+Abuja,6,35.0
+Cape Town,6,12.0
+Lisbon,7,34.8
+Vienna,7,16.695652173913043
+Zurich,7,26.5
+Nice,7,20.764705882352942
+Malaga,7,27.727272727272727
+Athens,7,24.76923076923077
+Geneva,7,30.11111111111111
+Barcelona,7,25.933333333333334
+Paris,7,43.333333333333336
+Istanbul,7,41.23076923076923
+Kos,7,6.5
+Kerkyra,7,43.0
+Amsterdam,7,21.121951219512194
+Frankfurt,7,21.977777777777778
+Gibraltar,7,22.0
+Mykonos,7,49.0
+Warsaw,7,40.0
+Copenhagen,7,14.636363636363637
+Pisa,7,24.4
+Rome,7,49.625
+Naples,7,24.0
+Stockholm,7,23.166666666666668
+Tel Aviv-Yafo,7,32.0
+Brussels,7,27.105263157894736
+Munich,7,24.0
+Cologne/Bonn,7,21.4
+Larnaca,7,19.666666666666668
+Ljubljana,7,8.0
+Marseille,7,38.125
+Dublin,7,32.15151515151515
+Palermo,7,10.0
+Pula,7,23.0
+Toulouse,7,30.5
+Valencia,7,25.5
+Chania,7,29.0
+Milan,7,49.5
+Reykjavik,7,11.666666666666666
+Prague,7,18.8
+Split,7,9.0
+Budapest,7,19.555555555555557
+Florence,7,17.75
+Dalaman,7,33.0
+Tenerife,7,22.25
+New York,7,36.89655172413793
+Helsinki,7,16.083333333333332
+Izmir,7,35.0
+Belfast,7,74.5
+Aberdeen,7,24.25
+Brindisi,7,26.0
+Saint Helier,7,7.5
+Lyon,7,9.5
+Newcastle,7,26.75
+Duesseldorf,7,47.6
+Rhodes,7,21.0
+Montego Bay,7,70.0
+Dallas,7,92.6
+Glasgow,7,24.5
+Palma de Mallorca,7,21.36
+Dubrovnik,7,27.6
+Stuttgart,7,29.0
+Doha,7,26.615384615384617
+Venice,7,19.6
+Boston,7,31.0
+Mulhouse/Basel,7,19.5
+Chicago,7,45.9
+Toronto,7,49.1
+Inverness,7,8.0
+Berlin,7,38.75
+Hamburg,7,42.42857142857143
+Heraklion,7,23.666666666666668
+Manchester,7,31.46153846153846
+Derry,7,26.0
+Edinburgh,7,24.384615384615383
+Sofia,7,17.4
+Dubai,7,46.083333333333336
+Thira,7,47.5
+Tokyo,7,28.25
+Charlotte,7,34.666666666666664
+Madrid,7,34.1764705882353
+Minneapolis/Saint Paul,7,3.0
+Cork,7,30.25
+Funchal,7,15.0
+Houston,7,38.0
+Singapore,7,24.285714285714285
+Thessaloniki,7,6.6
+Abu Dhabi,7,36.2
+Raleigh/Durham,7,282.0
+Montreal,7,17.0
+Cairo,7,50.142857142857146
+Olbia,7,30.0
+Philadelphia,7,23.75
+Delhi,7,59.25
+Nairobi,7,111.5
+Mumbai,7,72.16666666666667
+Seattle,7,27.75
+Shannon,7,66.5
+Zakynthos Island,7,72.0
+Riyadh,7,43.5
+Bahrain,7,54.0
+Grand Cayman,7,54.0
+Kefallinia,7,46.0
+Los Angeles,7,52.72727272727273
+San Francisco,7,35.42857142857143
+Calgary,7,16.5
+Miami,7,37.166666666666664
+Oslo,7,23.6
+Figari,7,51.0
+Malta,7,19.0
+Salt Lake City,7,19.0
+Kuala Lumpur,7,50.5
+Phoenix,7,39.0
+Denver,7,37.333333333333336
+Galway,7,54.0
+Paphos,7,60.0
+Grenada,7,39.0
+Ibiza,7,26.0
+Bridgetown,7,41.0
+Atlanta,7,47.2
+Bodrum,7,58.0
+Austin,7,50.0
+Faro,7,35.142857142857146
+Lagos,7,48.0
+Isle of Man,7,36.0
+Detroit,7,53.0
+Shanghai,7,56.0
+Washington,7,42.0
+San Diego,7,43.0
+Bengaluru,7,58.5
+Bangkok,7,41.5
+Accra,7,58.0
+Halifax,7,35.0
+Chennai,7,68.0
+Beirut,7,20.0
+Billund,7,71.0
+Belgrade,7,42.57142857142857
+Preveza/Lefkada,7,23.0
+Tirana,7,47.0
+Vancouver,7,45.0
+Kalamata,7,79.0
+Tampa,7,43.0
+Bucharest,7,49.0
+Algiers,7,100.0
+Beijing,7,27.0
+Mexico City,7,43.0
+Orlando,7,37.0
+Portland,7,46.0
+Bermuda,7,22.0
+Jeddah,7,43.5
+Las Vegas,7,37.5
+Bologna,7,28.6
+New Orleans,7,49.0
+Cincinnati,7,87.0
+Nashville,7,46.0
+Krakow,7,21.0
+Zagreb,7,21.5
+Baltimore,7,89.0
+Kuwait,7,37.0
+Hong Kong,7,33.833333333333336
+Ho Chi Minh City,7,40.0
+Amman,7,30.5
+Pittsburgh,7,36.0
+Goteborg,7,27.0
+Casablanca,7,30.833333333333332
+Dhaka,7,33.0
+Male,7,28.0
+Johannesburg,7,23.333333333333332
+Seoul,7,28.0
+Hannover,7,12.0
+Sydney,7,34.0
+Muscat,7,19.0
+Addis Ababa,7,21.0
+Taipei,7,49.5
+Sao Paulo,7,20.5
+Kigali,7,22.0
+Sanya,7,16.0
+Colombo,7,32.0
+Buenos Aires,7,58.0
+Santiago,7,66.0
+Chengdu,7,34.0
+Chongqing,7,1.0
+Bogota,7,26.0
+Baku,7,90.0
+Guangzhou,7,19.0
+Abuja,7,39.0
+Cape Town,7,17.0
+Lisbon,8,33.0
+Vienna,8,17.964285714285715
+Zurich,8,25.846153846153847
+Marseille,8,30.8
+Barcelona,8,42.75
+Rome,8,64.42857142857143
+Malaga,8,23.416666666666668
+Paris,8,40.09090909090909
+Amsterdam,8,28.526315789473685
+Frankfurt,8,20.74418604651163
+Naples,8,13.875
+Warsaw,8,22.25
+Zagreb,8,5.0
+Copenhagen,8,15.791666666666666
+Istanbul,8,72.15384615384616
+Valencia,8,18.142857142857142
+Athens,8,48.785714285714285
+Stockholm,8,31.125
+Tel Aviv-Yafo,8,43.666666666666664
+Dublin,8,32.5625
+Ibiza,8,29.77777777777778
+Brussels,8,33.65
+Prague,8,54.833333333333336
+Cologne/Bonn,8,30.7
+Larnaca,8,50.25
+Milan,8,52.875
+Olbia,8,13.333333333333334
+Bodrum,8,48.0
+Kerkyra,8,39.333333333333336
+Chania,8,7.5
+Saint Helier,8,72.5
+Gibraltar,8,55.0
+Nice,8,56.76470588235294
+Venice,8,26.0
+Reykjavik,8,12.142857142857142
+Lyon,8,23.666666666666668
+Munich,8,25.416666666666668
+New York,8,36.357142857142854
+Palma de Mallorca,8,12.363636363636363
+Mulhouse/Basel,8,37.666666666666664
+Berlin,8,22.6
+Budapest,8,59.833333333333336
+Dalaman,8,9.5
+Split,8,20.4
+Belgrade,8,36.285714285714285
+Aberdeen,8,54.0
+Newcastle,8,54.5
+Pisa,8,12.666666666666666
+Edinburgh,8,34.53333333333333
+Duesseldorf,8,41.666666666666664
+Montego Bay,8,19.0
+Dallas,8,37.2
+Florence,8,61.75
+Kalamata,8,40.0
+Palermo,8,19.0
+Geneva,8,44.78947368421053
+Doha,8,40.833333333333336
+Thessaloniki,8,8.4
+Boston,8,30.90909090909091
+Chicago,8,44.0
+Toronto,8,39.77777777777778
+Bologna,8,34.77777777777778
+Manchester,8,49.15384615384615
+Bucharest,8,30.333333333333332
+Stuttgart,8,19.46153846153846
+Belfast,8,36.166666666666664
+Inverness,8,43.0
+Krakow,8,36.0
+Dubai,8,39.90909090909091
+Tokyo,8,64.2
+Charlotte,8,56.0
+Madrid,8,34.0
+Tenerife,8,79.0
+Orlando,8,155.0
+Minneapolis/Saint Paul,8,8.0
+Cork,8,30.5
+Preveza/Lefkada,8,45.5
+Funchal,8,5.0
+Houston,8,42.5
+Singapore,8,32.0
+Abu Dhabi,8,29.0
+Raleigh/Durham,8,17.0
+Philadelphia,8,25.25
+Cairo,8,60.0
+Brindisi,8,35.0
+Delhi,8,53.142857142857146
+Nairobi,8,39.0
+Seattle,8,28.0
+Mumbai,8,72.5
+Shannon,8,56.666666666666664
+Glasgow,8,73.9
+Riyadh,8,44.75
+Bahrain,8,40.0
+Los Angeles,8,53.4
+Providenciales,8,37.0
+San Francisco,8,40.375
+Thira,8,49.0
+Calgary,8,16.0
+Isle of Man,8,33.5
+Helsinki,8,23.0
+Miami,8,50.333333333333336
+Hamburg,8,66.85714285714286
+Oslo,8,19.25
+Malta,8,27.666666666666668
+Salt Lake City,8,24.0
+Kuala Lumpur,8,33.0
+Phoenix,8,44.0
+Denver,8,34.0
+Galway,8,49.0
+Kingstown,8,37.0
+Figari,8,51.0
+Derry,8,76.5
+Bridgetown,8,36.0
+Atlanta,8,40.2
+Kuwait,8,43.5
+Toulouse,8,34.0
+Austin,8,28.0
+Lagos,8,38.5
+Mykonos,8,29.0
+Perth,8,37.0
+Detroit,8,55.0
+Shanghai,8,54.5
+Washington,8,78.6
+San Diego,8,50.5
+Hong Kong,8,46.833333333333336
+Bengaluru,8,45.5
+Bangkok,8,38.5
+Hannover,8,64.0
+Halifax,8,42.0
+Billund,8,42.0
+Chennai,8,21.0
+Beirut,8,28.666666666666668
+Accra,8,93.0
+Faro,8,28.25
+Montreal,8,41.0
+Vancouver,8,29.0
+Zakynthos Island,8,89.0
+Tampa,8,40.0
+Sofia,8,36.2
+Algiers,8,83.0
+Bermuda,8,45.0
+Riga,8,10.2
+Las Vegas,8,40.5
+Nashville,8,44.0
+Cincinnati,8,67.0
+Baltimore,8,52.0
+Amman,8,50.5
+Bandar Seri Begawan,8,77.0
+Neom,8,38.0
+Ljubljana,8,38.0
+Goteborg,8,56.5
+Tehran,8,41.0
+Almaty,8,73.0
+Casablanca,8,93.25
+Luxembourg,8,12.75
+Dhaka,8,33.0
+Islamabad,8,38.0
+Dundee,8,16.0
+Johannesburg,8,41.333333333333336
+Wuhan,8,4.0
+Seoul,8,31.0
+Stavanger,8,23.0
+Beijing,8,9.25
+Sydney,8,72.5
+Muscat,8,48.0
+Addis Ababa,8,15.0
+Sao Paulo,8,22.0
+Kigali,8,50.0
+Sanya,8,19.0
+Colombo,8,39.0
+Taipei,8,40.0
+Jeddah,8,5.5
+Buenos Aires,8,38.0
+Tianjin,8,27.0
+Bogota,8,54.0
+Guangzhou,8,59.0
+Abuja,8,32.0
+Cape Town,8,43.0
+Mexico City,8,21.0
+Lisbon,9,34.75
+Vienna,9,13.483870967741936
+Zurich,9,24.512820512820515
+Malaga,9,13.444444444444445
+Paris,9,34.357142857142854
+Edinburgh,9,23.428571428571427
+Aberdeen,9,35.57142857142857
+Amsterdam,9,23.30952380952381
+Frankfurt,9,20.959183673469386
+Warsaw,9,37.166666666666664
+Barcelona,9,35.51428571428571
+Geneva,9,30.095238095238095
+Istanbul,9,45.15384615384615
+Prague,9,32.57142857142857
+Rome,9,41.285714285714285
+Stockholm,9,32.888888888888886
+Copenhagen,9,15.608695652173912
+Tel Aviv-Yafo,9,58.0
+Dublin,9,21.46875
+Manchester,9,39.57142857142857
+Brussels,9,29.047619047619047
+Munich,9,24.609756097560975
+Larnaca,9,36.0
+Marseille,9,24.25
+Oslo,9,20.333333333333332
+Athens,9,34.125
+Milan,9,45.888888888888886
+Hamburg,9,37.888888888888886
+Newcastle,9,49.0
+Thessaloniki,9,9.75
+Gibraltar,9,43.5
+Nice,9,32.142857142857146
+Split,9,14.0
+Berlin,9,29.666666666666668
+Cologne/Bonn,9,17.8
+Faro,9,24.0
+Helsinki,9,14.923076923076923
+Saint Helier,9,37.5
+Toulouse,9,27.666666666666668
+Belfast,9,37.142857142857146
+Budapest,9,44.166666666666664
+Bologna,9,20.375
+Lyon,9,28.5
+Madrid,9,26.435897435897434
+Reykjavik,9,12.875
+New York,9,26.75862068965517
+Thira,9,55.0
+Valencia,9,36.285714285714285
+Duesseldorf,9,31.285714285714285
+Montego Bay,9,17.0
+Dallas,9,22.6
+Kerkyra,9,27.333333333333332
+Doha,9,28.23076923076923
+Hannover,9,11.0
+Tirana,9,-192.33333333333334
+Kalamata,9,49.0
+Pisa,9,33.5
+Glasgow,9,47.0
+Stuttgart,9,15.411764705882353
+Boston,9,28.272727272727273
+Luxembourg,9,22.444444444444443
+Chicago,9,56.9
+Toronto,9,25.1
+Mulhouse/Basel,9,30.666666666666668
+Derry,9,28.666666666666668
+Bucharest,9,61.0
+Venice,9,31.88888888888889
+Dubai,9,34.833333333333336
+Tokyo,9,32.2
+Charlotte,9,63.666666666666664
+Goteborg,9,45.0
+Mykonos,9,77.5
+Orlando,9,33.5
+Minneapolis/Saint Paul,9,10.0
+Cork,9,21.25
+Houston,9,36.5
+Singapore,9,33.0
+Abu Dhabi,9,34.6
+Raleigh/Durham,9,5.0
+Montreal,9,19.666666666666668
+Philadelphia,9,17.25
+Cairo,9,61.285714285714285
+Delhi,9,70.71428571428571
+Nairobi,9,31.0
+Orkney,9,9.0
+Mumbai,9,-46.666666666666664
+Seattle,9,27.25
+Shannon,9,22.333333333333332
+Funchal,9,14.5
+Riyadh,9,46.75
+Bahrain,9,34.666666666666664
+Grand Cayman,9,39.0
+Los Angeles,9,36.54545454545455
+Palma de Mallorca,9,7.15
+San Francisco,9,29.857142857142858
+Calgary,9,15.5
+Miami,9,28.333333333333332
+Zagreb,9,53.333333333333336
+Malta,9,51.0
+Kuala Lumpur,9,26.0
+Phoenix,9,55.0
+Denver,9,29.333333333333332
+Galway,9,12.0
+Ljubljana,9,27.0
+Kingstown,9,35.0
+Bridgetown,9,30.0
+Dalaman,9,56.0
+Atlanta,9,26.2
+Austin,9,59.0
+Lagos,9,32.5
+Perth,9,47.0
+Isle of Man,9,130.0
+Detroit,9,8.0
+Shanghai,9,33.5
+Washington,9,29.0
+San Diego,9,40.0
+Hong Kong,9,47.142857142857146
+Bengaluru,9,37.0
+Bangkok,9,38.0
+Accra,9,35.0
+Halifax,9,16.0
+Chennai,9,64.0
+Ibiza,9,27.0
+Beirut,9,1.8333333333333333
+Inverness,9,22.0
+Belgrade,9,31.4
+Billund,9,27.0
+Sofia,9,40.25
+Vancouver,9,32.5
+Tampa,9,46.0
+Palermo,9,10.5
+Beijing,9,13.4
+Mexico City,9,23.0
+Krakow,9,18.25
+Portland,9,23.0
+Bermuda,9,54.0
+Naples,9,52.5
+Las Vegas,9,25.0
+Cincinnati,9,30.0
+Nashville,9,37.0
+Baltimore,9,43.0
+Kuwait,9,26.0
+Olbia,9,8.666666666666666
+Amman,9,39.0
+Pittsburgh,9,30.0
+Luxor,9,68.0
+Jeddah,9,10.333333333333334
+Casablanca,9,38.8
+Algiers,9,55.5
+Johannesburg,9,33.666666666666664
+Seoul,9,41.5
+Stavanger,9,18.0
+Sydney,9,44.5
+Muscat,9,24.0
+Addis Ababa,9,20.0
+Sao Paulo,9,21.5
+Kigali,9,18.0
+Sanya,9,19.0
+Colombo,9,33.0
+Taipei,9,22.0
+Buenos Aires,9,31.0
+Santiago,9,28.0
+Haikou,9,18.0
+Bogota,9,24.0
+Guangzhou,9,3.0
+Abuja,9,22.0
+Cape Town,9,20.0
+Qingdao,9,6.0
+Lisbon,10,36.61538461538461
+Vienna,10,23.625
+Zurich,10,29.59259259259259
+Barcelona,10,33.32
+Paris,10,26.071428571428573
+Edinburgh,10,37.94117647058823
+Madrid,10,43.42857142857143
+Amsterdam,10,30.294117647058822
+Rome,10,41.0
+Frankfurt,10,22.486486486486488
+Prague,10,34.333333333333336
+Warsaw,10,56.2
+Stockholm,10,31.875
+Istanbul,10,37.63636363636363
+Geneva,10,34.166666666666664
+Copenhagen,10,20.41176470588235
+Tel Aviv-Yafo,10,45.333333333333336
+Malaga,10,32.142857142857146
+Dublin,10,33.172413793103445
+Manchester,10,41.0
+Brussels,10,32.2
+Munich,10,28.566666666666666
+Athens,10,51.53846153846154
+Larnaca,10,32.2
+Marseille,10,37.666666666666664
+Aberdeen,10,29.875
+Gibraltar,10,42.5
+Glasgow,10,47.09090909090909
+Oslo,10,22.5
+Hamburg,10,50.142857142857146
+Milan,10,44.666666666666664
+Newcastle,10,22.8
+Reykjavik,10,68.0
+Berlin,10,39.666666666666664
+New York,10,28.366666666666667
+Cologne/Bonn,10,23.1
+Helsinki,10,16.125
+Nice,10,34.5
+Belfast,10,31.833333333333332
+Saint Helier,10,53.75
+Bologna,10,62.833333333333336
+Mykonos,10,35.0
+Toulouse,10,63.333333333333336
+Belgrade,10,49.333333333333336
+Lyon,10,25.5
+Thira,10,27.0
+Doha,10,37.81818181818182
+Duesseldorf,10,24.571428571428573
+Montego Bay,10,0.0
+Naples,10,62.2
+Florence,10,28.666666666666668
+Tirana,10,28.666666666666668
+Mulhouse/Basel,10,58.0
+Luxembourg,10,44.0
+Pisa,10,67.5
+Boston,10,26.8
+Chicago,10,36.9
+Toronto,10,32.125
+Stuttgart,10,23.545454545454547
+Venice,10,23.571428571428573
+Zagreb,10,21.0
+Derry,10,40.333333333333336
+Goteborg,10,24.0
+Dubai,10,44.0
+Tokyo,10,32.0
+Charlotte,10,32.666666666666664
+Cairo,10,37.833333333333336
+Orlando,10,32.0
+Minneapolis/Saint Paul,10,11.0
+Cork,10,26.75
+Houston,10,29.25
+Singapore,10,33.0
+Funchal,10,37.0
+Abu Dhabi,10,34.166666666666664
+Raleigh/Durham,10,23.0
+Montreal,10,28.0
+Philadelphia,10,38.5
+Palma de Mallorca,10,14.9
+Delhi,10,36.75
+Nairobi,10,18.5
+Shetland,10,71.0
+Mumbai,10,52.0
+Seattle,10,92.25
+Shannon,10,54.333333333333336
+Riyadh,10,29.0
+Bahrain,10,26.333333333333332
+Dallas,10,34.5
+Kerkyra,10,33.0
+Grand Cayman,10,100.0
+Los Angeles,10,39.81818181818182
+San Francisco,10,29.571428571428573
+Budapest,10,46.833333333333336
+Calgary,10,29.5
+Heraklion,10,12.0
+Miami,10,36.833333333333336
+Malta,10,38.0
+Salt Lake City,10,25.0
+Kuala Lumpur,10,32.0
+Phoenix,10,39.5
+Denver,10,24.0
+Kefallinia,10,60.0
+Galway,10,33.0
+Grenada,10,78.0
+Bridgetown,10,70.0
+Atlanta,10,28.8
+Austin,10,54.0
+Lagos,10,22.5
+Faro,10,57.2
+Perth,10,50.0
+Isle of Man,10,115.0
+Bucharest,10,31.333333333333332
+Detroit,10,41.0
+Shanghai,10,38.5
+Washington,10,30.0
+San Diego,10,42.5
+Hong Kong,10,33.857142857142854
+Bengaluru,10,32.0
+Bangkok,10,27.5
+Accra,10,67.0
+Halifax,10,36.0
+Chennai,10,29.0
+Beirut,10,6.666666666666667
+Ljubljana,10,48.0
+Figari,10,71.0
+Hannover,10,56.0
+Ibiza,10,32.0
+Inverness,10,80.0
+Brindisi,10,40.0
+Vancouver,10,14.0
+Tampa,10,21.0
+Algiers,10,71.0
+Split,10,29.0
+Beijing,10,41.5
+Mexico City,10,20.0
+Valencia,10,26.333333333333332
+Portland,10,27.0
+Bermuda,10,33.0
+Las Vegas,10,21.0
+Dubrovnik,10,24.0
+Nashville,10,17.0
+Tashkent,10,49.0
+Jeddah,10,24.0
+Baltimore,10,15.0
+Kuwait,10,30.333333333333332
+Amman,10,39.5
+Pittsburgh,10,17.0
+Tunis,10,24.0
+Tehran,10,32.0
+Almaty,10,28.0
+Casablanca,10,54.333333333333336
+Male,10,22.0
+Islamabad,10,97.0
+Dundee,10,44.0
+Johannesburg,10,25.666666666666668
+Seoul,10,56.5
+Stavanger,10,14.0
+Sydney,10,72.0
+Muscat,10,29.0
+Taipei,10,32.0
+Addis Ababa,10,34.0
+Sao Paulo,10,30.0
+Kigali,10,20.0
+Sanya,10,13.0
+Colombo,10,30.0
+Buenos Aires,10,22.0
+Chengdu,10,37.0
+Bogota,10,24.0
+Baku,10,15.5
+Guangzhou,10,12.0
+Abuja,10,31.0
+Cape Town,10,26.0
+Palma de Mallorca,1,8.88888888888889
+Ibiza,1,0.0
+Zurich,1,20.416666666666668
+Marseille,1,0.0
+Dublin,1,6.666666666666667
+Amsterdam,1,8.285714285714286
+Lisbon,1,13.75
+Thessaloniki,1,25.0
+Copenhagen,1,14.25
+Rome FCO,1,0.0
+Paris CDG,1,39.714285714285715
+Malaga,1,8.333333333333334
+Dusseldorf,1,8.0
+Munich,1,23.5
+Kos,1,20.0
+Paris Orly,1,15.0
+Cologne/Bonn,1,47.5
+Stuttgart,1,14.166666666666666
+Zadar,1,0.0
+Frankfurt,1,3.9285714285714284
+London LCY,1,0.0
+Brussels,1,0.0
+Istanbul IST,1,37.8
+Geneva,1,0.0
+Vienna,1,1.6666666666666667
+London LHR,1,14.166666666666666
+Chania,1,68.0
+Madrid,1,0.0
+Heraklion,1,0.0
+Izmir ADB,1,0.0
+Rhodos,1,6.666666666666667
+Antalya,1,35.0
+Olbia,1,45.0
+Vilnius,1,0.0
+Riga,1,8.333333333333334
+Milan LIN,1,4.666666666666667
+Strasbourg,1,0.0
+Stockholm ARN,1,0.0
+Luxembourg,1,7.5
+Helsinki,1,3.75
+Saarbrücken,1,161.0
+Bari,1,0.0
+Paphos,1,0.0
+Marsa Alam,1,20.5
+Oslo,1,35.0
+Kutaisi,1,0.0
+Edinburgh,1,3.6666666666666665
+Belgrade,1,125.0
+Basel,1,23.0
+Doha,1,0.0
+London LTN,1,0.0
+Birmingham,1,0.0
+New York EWR,1,55.0
+London STN,1,0.0
+Gothenburg GOT,1,0.0
+New York JFK,1,80.0
+Manchester,1,12.5
+Catania,1,0.0
+London LGW,1,0.6666666666666666
+Barcelona,1,32.0
+Tunis,1,0.0
+Tel Aviv,1,0.0
+Warsaw,1,0.0
+Marrakech,1,0.0
+Athens,1,0.0
+Milan MXP,1,0.0
+Erbil,1,0.0
+Singapore,1,0.0
+Reykjavik,1,0.0
+Istanbul SAW,1,33.333333333333336
+Split,1,0.0
+Bologna,1,81.66666666666667
+Tivat,1,19.0
+Beirut,1,0.0
+Venice,1,0.0
+Salzburg,1,0.0
+Budapest,1,31.666666666666668
+Beijing,1,0.0
+Glasgow,1,0.0
+Porto,1,2.0
+Tallinn,1,0.0
+Pristina,1,31.0
+Cairo,1,38.0
+Nantes,1,10.0
+Bristol,1,20.0
+Milan BGY,1,0.0
+Naples,1,0.0
+Sofia,1,0.0
+Nice,1,0.0
+Ankara ESB,1,0.0
+Hurghada,1,0.0
+Krakow,1,115.0
+Graz,1,0.0
+Alicante,1,0.0
+Trondheim,1,0.0
+Diyarbakir,1,75.0
+Nottingham EMA,1,55.0
+Pisa,1,0.0
+Tirana,1,0.0
+Valencia,1,0.0
+London LGW,2,0.0
+Varna,2,45.0
+Riga,2,0.0
+Paris CDG,2,5.857142857142857
+Gran Canaria,2,0.0
+Paris Orly,2,19.666666666666668
+Kaunas,2,25.0
+London LCY,2,0.0
+Istanbul IST,2,0.0
+Heraklion,2,0.0
+Izmir ADB,2,80.0
+London LHR,2,2.142857142857143
+Corfu,2,0.0
+Antalya,2,98.33333333333333
+Chisinau,2,0.0
+Milan LIN,2,0.0
+Trieste,2,0.0
+Stockholm ARN,2,5.0
+Dusseldorf,2,5.0
+Saarbrücken,2,0.0
+Milan BGY,2,0.0
+Palermo,2,0.0
+London STN,2,0.0
+New York EWR,2,0.0
+New York JFK,2,0.0
+Rome FCO,2,22.5
+Tel Aviv,2,0.0
+Pristina,2,0.0
+Baku,2,0.0
+Monastir,2,0.0
+Istanbul SAW,2,15.0
+Tenerife,2,0.0
+Pula,2,0.0
+Bourgas,2,100.0
+Vilnius,2,25.0
+Birmingham,2,35.0
+Bordeaux,2,0.0
+Nottingham EMA,2,0.0
+Catania,2,0.0
+Milan MXP,2,0.0
+Verona,2,0.0
+Skopje,2,0.0
+Rijeka,2,0.0
+Basel,2,9.0
+Iasi,2,50.0
+Samsun Carsamba,2,0.0
+Bergen BGO,2,0.0
+Bristol,2,0.0
+Castellón de la Plana,3,0.0
+Tallinn,3,12.5
+Zadar,3,0.0
+Bourgas,3,0.0
+Thessaloniki,3,0.0
+Basel,3,0.0
+Paris CDG,3,13.571428571428571
+Dusseldorf,3,3.3333333333333335
+Paris Orly,3,14.666666666666666
+London LCY,3,0.0
+Istanbul IST,3,14.0
+Rhodos,3,0.0
+Izmir ADB,3,0.6666666666666666
+London LHR,3,0.0
+Chania,3,0.0
+Antalya,3,10.714285714285714
+Milan LIN,3,0.0
+Milan BGY,3,0.0
+Saarbrücken,3,0.0
+Pristina,3,0.0
+Kutaisi,3,0.0
+New York EWR,3,0.0
+New York JFK,3,-2.5
+London LGW,3,0.0
+London STN,3,18.333333333333332
+Tel Aviv,3,10.0
+Reggio Calabria,3,0.0
+Bolzano,3,0.0
+Gothenburg GOT,3,0.0
+Palermo,3,0.0
+Rome FCO,3,6.25
+Tenerife,3,0.0
+London LTN,3,0.0
+Olbia,3,80.0
+Istanbul SAW,3,6.333333333333333
+Bastia,3,0.0
+Hurghada,3,0.0
+Podgorica,3,0.0
+Pula,3,0.0
+Corfu,3,27.0
+Bari,3,0.0
+Tbilisi,3,10.0
+Porto,3,0.0
+Catania,3,0.0
+Vilnius,3,0.0
+Alicante,3,0.0
+Stockholm ARN,3,3.3333333333333335
+Skopje,3,60.0
+Salzburg,3,0.0
+Marrakech,3,0.0
+Birmingham,3,0.0
+Adana,3,0.0
+Nottingham EMA,3,0.0
+Varna,5,47.5
+Heraklion,5,5.0
+Rome FCO,5,0.0
+London LGW,5,0.0
+Corfu,5,15.0
+Paris CDG,5,13.75
+Erbil,5,0.0
+Krakow,5,10.0
+Paris Orly,5,34.0
+Tallinn,5,0.0
+London LCY,5,0.0
+Istanbul IST,5,18.75
+London LHR,5,0.0
+Catania,5,0.0
+Marsa Alam,5,0.0
+Izmir ADB,5,0.0
+Antalya,5,2.8333333333333335
+Riga,5,13.333333333333334
+Milan LIN,5,25.666666666666668
+Dusseldorf,5,24.0
+Saarbrücken,5,45.0
+Kos,5,0.0
+New York EWR,5,0.0
+New York JFK,5,5.0
+Tel Aviv,5,21.666666666666668
+Hurghada,5,0.0
+Pristina,5,98.0
+Salzburg,5,0.0
+Vilnius,5,0.0
+Zadar,5,0.0
+Stockholm ARN,5,10.0
+Fuerteventura,5,0.0
+Istanbul SAW,5,3.75
+Bergen BGO,5,10.0
+Basel,5,0.5
+Gothenburg GOT,5,0.0
+Milan MXP,5,0.0
+London STN,5,0.0
+Milan BGY,5,110.5
+Graz,5,60.0
+Alicante,5,0.0
+Birmingham,5,0.0
+Palermo,5,0.0
+Bordeaux,5,65.0
+Olbia,5,0.0
+Porto,5,0.0
+Strasbourg,5,0.0
+Dalaman,5,0.0
+Skopje,5,0.0
+Gaziantep,5,0.0
+London LHR,4,10.0
+Varna,6,7.5
+Pula,6,0.0
+Tivat,6,12.5
+Tel Aviv,6,7.5
+Thessaloniki,6,0.0
+Zadar,6,1.0
+Paris CDG,6,14.75
+Bourgas,6,0.0
+Gran Canaria,6,10.0
+Kos,6,0.0
+London LCY,6,0.0
+Birmingham,6,0.0
+Paris Orly,6,17.714285714285715
+London LGW,6,1.8
+Istanbul IST,6,18.125
+Izmir ADB,6,5.0
+Rhodos,6,4.0
+Antalya,6,12.571428571428571
+London LHR,6,1.0
+Istanbul SAW,6,13.88888888888889
+Rome FCO,6,5.625
+Pristina,6,8.5
+Hurghada,6,0.0
+New York EWR,6,0.0
+Zakinthos,6,0.0
+New York JFK,6,0.0
+Bastia,6,0.0
+Stockholm ARN,6,8.0
+London STN,6,4.166666666666667
+Vilnius,6,0.0
+Milan BGY,6,0.0
+Fuerteventura,6,0.0
+Rijeka,6,8.0
+Basel,6,6.5
+Tbilisi,6,0.0
+Djerba,6,0.0
+Alicante,6,0.0
+Corfu,6,0.0
+Skopje,6,20.0
+Milan LIN,6,10.0
+Iasi,6,0.0
+Kayseri,6,25.0
+Nottingham EMA,6,0.0
+Paphos,6,0.0
+Bari,6,0.0
+Porto,6,0.0
+Verona,6,0.0
+Dusseldorf,6,3.75
+Kutaisi,6,30.0
+Bordeaux,6,0.0
+Bodrum,6,0.0
+Catania,6,45.0
+Saarbrücken,6,180.0
+Podgorica,6,55.0
+Milan MXP,6,85.0
+Marrakech,6,15.0
+Bolzano,6,0.0
+Monastir,6,10.0
+Graz,6,0.0
+Baghdad,6,0.0
+Chisinau,6,0.0
+Tallinn,6,0.0
+Valencia,6,21.0
+Nantes,6,5.0
+Tunis,6,0.0
+Ankara ESB,6,0.0
+Salzburg,6,0.0
+Gothenburg GOT,6,0.0
+Trondheim,6,0.0
+London LTN,6,0.0
+Bristol,6,24.0
+Yerevan,6,0.0
+Porto,7,19.181818181818183
+Bourgas,7,0.0
+Catania,7,0.0
+Tel Aviv,7,3.75
+Monastir,7,0.0
+Paris CDG,7,1.5833333333333333
+Paris Orly,7,4.571428571428571
+Riga,7,9.25
+Istanbul IST,7,14.636363636363637
+Luxembourg,7,12.4
+London LHR,7,63.333333333333336
+Preveza,7,0.0
+Izmir ADB,7,8.166666666666666
+Trieste,7,0.0
+Pristina,7,0.0
+Antalya,7,32.86666666666667
+Castellón de la Plana,7,0.0
+Chisinau,7,0.0
+Rome FCO,7,22.5
+Istanbul SAW,7,14.375
+New York EWR,7,0.0
+New York JFK,7,6.666666666666667
+Tallinn,7,15.0
+Rhodos,7,0.0
+Bolzano,7,0.0
+London STN,7,5.0
+Hurghada,7,15.0
+Stockholm ARN,7,14.166666666666666
+London LGW,7,8.0
+Corfu,7,2.5
+Basel,7,27.2
+Vilnius,7,7.333333333333333
+Milan MXP,7,0.0
+Gothenburg GOT,7,0.0
+Rotterdam,7,8.5
+Milan LIN,7,0.0
+Bordeaux,7,15.5
+Milan BGY,7,0.0
+Dusseldorf,7,64.5
+Bergen BGO,7,15.0
+London LCY,7,50.0
+Podgorica,7,0.0
+Bristol,7,12.333333333333334
+Salzburg,7,50.0
+Ankara ESB,7,37.5
+Saarbrücken,7,0.0
+Tbilisi,7,0.0
+Kaunas,7,0.0
+Reggio Calabria,7,0.0
+Skopje,7,32.5
+Graz,7,35.0
+Gaziantep,7,35.0
+London LTN,7,27.0
+Varna,7,0.0
+Tivat,7,0.0
+Zadar,7,0.0
+Gran Canaria,7,15.0
+Birmingham,7,0.0
+Zakinthos,7,0.0
+Bastia,7,0.0
+Fuerteventura,7,7.5
+Bari,7,0.0
+Djerba,7,20.5
+Alicante,7,14.666666666666666
+Iasi,7,0.0
+Kayseri,7,49.0
+Nottingham EMA,7,0.0
+Rome FCO,8,1.8181818181818181
+Dusseldorf,8,18.875
+Kos,8,16.666666666666668
+Paris Orly,8,1.0
+Zadar,8,0.0
+London LCY,8,0.0
+Istanbul IST,8,21.666666666666668
+London LHR,8,0.45454545454545453
+Heraklion,8,12.5
+Izmir ADB,8,0.0
+Rhodos,8,0.0
+Antalya,8,21.071428571428573
+Vilnius,8,5.0
+Milan LIN,8,5.8
+Strasbourg,8,0.0
+Stockholm ARN,8,3.5714285714285716
+Saarbrücken,8,0.0
+Bari,8,0.0
+Paphos,8,0.0
+Marsa Alam,8,0.0
+Kutaisi,8,0.0
+Basel,8,10.75
+Paris CDG,8,9.428571428571429
+Birmingham,8,109.0
+New York EWR,8,0.0
+London STN,8,0.0
+Gothenburg GOT,8,5.0
+New York JFK,8,-1.25
+Catania,8,1.3333333333333333
+London LGW,8,6.0
+Tunis,8,0.0
+Tel Aviv,8,13.714285714285714
+Marrakech,8,17.0
+Milan MXP,8,5.0
+Erbil,8,0.0
+Istanbul SAW,8,15.625
+Tivat,8,0.0
+Salzburg,8,15.0
+Porto,8,21.333333333333332
+Tallinn,8,8.333333333333334
+Pristina,8,0.0
+Nantes,8,32.25
+Bristol,8,40.0
+Milan BGY,8,0.0
+Ankara ESB,8,47.5
+Hurghada,8,0.0
+Graz,8,0.0
+Alicante,8,8.0
+Diyarbakir,8,0.0
+Nottingham EMA,8,0.0
+Tirana,8,12.666666666666666
+Monastir,8,0.0
+Dubrovnik,8,15.0
+Trieste,8,0.0
+Castellón de la Plana,8,0.0
+Chisinau,8,48.5
+Baku,8,0.0
+Corfu,8,0.0
+Bordeaux,8,53.5
+Bergen BGO,8,0.0
+Bolzano,8,0.0
+Podgorica,8,0.0
+Tbilisi,8,0.0
+Varna,8,0.0
+Kaunas,8,0.0
+Reggio Calabria,8,0.0
+Skopje,8,0.0
+Gaziantep,8,0.0
+London LTN,8,0.0
+London LGW,9,6.833333333333333
+Varna,9,42.5
+Riga,9,6.0
+Paris CDG,9,11.466666666666667
+Gran Canaria,9,0.0
+Erbil,9,0.0
+Paris Orly,9,18.142857142857142
+Kaunas,9,0.0
+London LCY,9,0.0
+Heraklion,9,0.0
+Izmir ADB,9,0.0
+London LHR,9,0.0
+Corfu,9,0.0
+Antalya,9,8.714285714285714
+Chisinau,9,55.0
+Milan LIN,9,0.0
+Trieste,9,0.0
+Stockholm ARN,9,1.4285714285714286
+Dusseldorf,9,17.833333333333332
+Saarbrücken,9,15.0
+Milan BGY,9,5.0
+London STN,9,13.571428571428571
+New York EWR,9,0.0
+New York JFK,9,0.0
+Rome FCO,9,4.5
+Istanbul IST,9,12.625
+Tel Aviv,9,17.0
+Pristina,9,41.0
+Baku,9,0.0
+Monastir,9,0.0
+Istanbul SAW,9,9.285714285714286
+Tenerife,9,0.0
+Pula,9,0.0
+Zadar,9,1.5
+Bourgas,9,9.0
+Vilnius,9,16.666666666666668
+Birmingham,9,0.0
+Bordeaux,9,19.0
+Nottingham EMA,9,0.0
+Catania,9,3.5
+Milan MXP,9,30.0
+Skopje,9,25.0
+Ankara ESB,9,0.0
+Rijeka,9,0.0
+Hurghada,9,5.0
+Basel,9,1.25
+Iasi,9,0.0
+Samsun Carsamba,9,0.0
+Bergen BGO,9,10.0
+Bristol,9,7.666666666666667
+Tbilisi,9,35.0
+Kos,9,0.0
+Chania,9,0.0
+Rhodos,9,0.0
+Strasbourg,9,10.0
+Bari,9,0.0
+Paphos,9,0.0
+Marsa Alam,9,10.0
+Kutaisi,9,0.0
+London LTN,9,0.0
+Gothenburg GOT,9,0.0
+Tunis,9,9.5
+Marrakech,9,27.75
+Salzburg,9,0.0
+Porto,9,63.888888888888886
+Tallinn,9,0.0
+Nantes,9,25.666666666666668
+Graz,9,0.0
+Alicante,9,30.0
+Trondheim,9,0.0
+Diyarbakir,9,0.0
+Varna,10,0.0
+Riga,10,0.0
+Basel,10,10.0
+Paris CDG,10,9.5
+Gran Canaria,10,7.666666666666667
+Erbil,10,0.0
+Paris Orly,10,23.75
+Kaunas,10,0.0
+Rome FCO,10,34.0
+London LCY,10,0.0
+Istanbul IST,10,20.25
+Izmir ADB,10,5.0
+London LHR,10,0.0
+Corfu,10,0.0
+Antalya,10,20.0
+Milan LIN,10,1.3333333333333333
+Trieste,10,0.0
+Chisinau,10,31.0
+Stockholm ARN,10,11.25
+Dusseldorf,10,12.5
+Saarbrücken,10,7.5
+Milan BGY,10,0.0
+Palermo,10,0.0
+London STN,10,0.0
+New York EWR,10,0.0
+New York JFK,10,0.0
+London LGW,10,60.5
+Thessaloniki,10,0.0
+London LTN,10,0.0
+Tel Aviv,10,41.5
+Fuerteventura,10,0.0
+Monastir,10,0.0
+Istanbul SAW,10,0.0
+Tenerife,10,0.0
+Hurghada,10,10.0
+Bergen BGO,10,0.0
+Krakow,10,0.0
+Bordeaux,10,12.0
+Olbia,10,0.0
+Tivat,10,10.0
+Vilnius,10,79.0
+Birmingham,10,28.0
+Nottingham EMA,10,0.0
+Catania,10,0.0
+Milan MXP,10,0.0
+Skopje,10,0.0
+Sofia,10,0.0
+Ankara ESB,10,0.0
+Verona,10,0.0
+Iasi,10,0.0
+Samsun Carsamba,10,0.0
+Varna,13,0.0
+Palma de Mallorca,13,7.818181818181818
+Malaga,13,0.0
+Pula,13,0.0
+Tivat,13,0.0
+Tel Aviv,13,0.0
+Amsterdam,13,10.285714285714286
+Lisbon,13,0.0
+Thessaloniki,13,0.0
+Zadar,13,5.333333333333333
+Tenerife,13,45.5
+Paris CDG,13,2.6
+Bourgas,13,0.0
+Gran Canaria,13,0.0
+Kos,13,0.0
+Munich,13,27.0
+London LCY,13,25.0
+Split,13,0.0
+Birmingham,13,0.0
+Larnaca,13,30.0
+Paris Orly,13,-5.0
+London LGW,13,6.0
+Manchester,13,0.0
+Krakow,13,0.0
+Frankfurt,13,8.461538461538462
+Brussels,13,7.5
+Istanbul IST,13,42.0
+Copenhagen,13,4.0
+Cologne/Bonn,13,0.0
+Vienna,13,13.0
+Madrid,13,0.0
+Zurich,13,10.833333333333334
+Reykjavik,13,12.5
+Izmir ADB,13,3.25
+Rhodos,13,0.0
+Naples,13,0.0
+Antalya,13,30.75
+London LHR,13,0.0
+Warsaw,13,0.0
+Riga,13,10.0
+Rome FCO,13,6.25
+Belgrade,13,0.0
+Luxembourg,13,0.0
+Helsinki,13,5.75
+Pristina,13,12.5
+Chania,13,0.0
+Hurghada,13,20.0
+Heraklion,13,10.0
+Nice,13,0.0
+Budapest,13,0.0
+Doha,13,0.0
+New York EWR,13,0.0
+Zakinthos,13,0.0
+Oslo,13,0.0
+New York JFK,13,-10.0
+Bastia,13,0.0
+Stuttgart,13,55.0
+Barcelona,13,18.75
+Stockholm ARN,13,0.0
+Athens,13,29.0
+Pisa,13,7.0
+London STN,13,3.3333333333333335
+Singapore,13,0.0
+Bologna,13,7.5
+Vilnius,13,0.0
+Milan BGY,13,15.0
+Dublin,13,5.0
+Fuerteventura,13,0.0
+Bucharest,13,0.0
+Istanbul SAW,13,25.0
+Rijeka,13,3.0
+Basel,13,8.0
+Alicante,13,0.0
+Milan LIN,13,0.0
+Tbilisi,13,0.0
+Djerba,13,83.0
+Cairo,13,49.0
+Dubrovnik,13,61.0
+Palermo,13,55.0
+Corfu,13,2.0
+Olbia,13,12.0
+Skopje,13,95.0
+Venice,13,25.0
+Sofia,13,0.0
+Tirana,13,100.0
+Ankara ESB,13,25.0
+Faro,13,15.0
+Iasi,13,0.0
+Kayseri,13,80.0
+Nottingham EMA,13,0.0
+Yerevan,13,0.0
+Porto,14,0.0
+Palma de Mallorca,14,0.0
+Heraklion,14,57.5
+Malaga,14,5.0
+Ibiza,14,0.0
+Bourgas,14,0.0
+Venice,14,6.5
+Catania,14,0.0
+Tel Aviv,14,8.333333333333334
+Amsterdam,14,11.666666666666666
+Monastir,14,0.0
+Lisbon,14,0.0
+Thessaloniki,14,0.0
+Valencia,14,0.0
+Paris CDG,14,22.333333333333332
+Paris Orly,14,23.333333333333332
+Nice,14,24.0
+Riga,14,17.5
+Naples,14,0.0
+Frankfurt,14,7.142857142857143
+Brussels,14,0.0
+Istanbul IST,14,36.25
+Luxembourg,14,0.0
+Vienna,14,6.666666666666667
+Madrid,14,0.0
+Munich,14,16.11111111111111
+London LHR,14,0.0
+Dubrovnik,14,0.0
+Zurich,14,18.0
+Preveza,14,0.0
+Sofia,14,0.0
+Izmir ADB,14,0.0
+Trieste,14,0.0
+Pristina,14,0.0
+Antalya,14,29.75
+Castellón de la Plana,14,0.0
+Copenhagen,14,20.875
+Chisinau,14,35.0
+Marseille,14,0.0
+Belgrade,14,45.0
+Rome FCO,14,3.0
+Helsinki,14,5.0
+Doha,14,42.5
+New York EWR,14,0.0
+Oslo,14,5.0
+Chania,14,0.0
+New York JFK,14,30.0
+Dublin,14,6.666666666666667
+Tallinn,14,0.0
+Barcelona,14,2.1666666666666665
+Manchester,14,0.0
+Rhodos,14,0.0
+Zagreb,14,0.0
+Bolzano,14,0.0
+London STN,14,0.0
+Hurghada,14,0.0
+Dalaman,14,0.0
+Stockholm ARN,14,8.75
+Warsaw,14,40.0
+Athens,14,70.0
+Baku,14,0.0
+Singapore,14,0.0
+Toulouse,14,0.0
+London LGW,14,20.0
+Corfu,14,22.5
+Basel,14,21.0
+Reykjavik,14,14.5
+Istanbul SAW,14,38.333333333333336
+London LCY,14,17.5
+Kos,14,205.0
+Funchal,14,6.0
+Olbia,14,14.0
+Budapest,14,30.0
+Vilnius,14,0.0
+Milan MXP,14,0.0
+Gothenburg GOT,14,0.0
+Beijing,14,0.0
+Stuttgart,14,41.666666666666664
+Milan LIN,14,54.0
+Tirana,14,40.0
+Split,14,0.0
+Bordeaux,14,0.0
+Cologne/Bonn,14,0.0
+Cairo,14,40.0
+Milan BGY,14,0.0
+Dusseldorf,14,15.0
+Bergen BGO,14,30.0
+Bologna,14,0.0
+Podgorica,14,65.0
+Bristol,14,0.0
+Salzburg,14,0.0
+Geneva,14,0.0
+Ankara ESB,14,0.0
+Saarbrücken,14,0.0
+Krakow,14,70.0
+Tbilisi,14,125.0
+Kaunas,14,0.0
+Reggio Calabria,14,0.0
+Skopje,14,45.0
+Graz,14,0.0
+Edinburgh,14,55.0
+Malta,14,10.0
+Gaziantep,14,0.0
+London LTN,14,0.0
+Nottingham EMA,15,0.0
+Palma de Mallorca,15,12.0
+Ibiza,15,15.0
+London STN,15,11.428571428571429
+Zurich,15,15.833333333333334
+Marseille,15,0.0
+Dublin,15,21.25
+Amsterdam,15,5.714285714285714
+Lisbon,15,0.0
+Thessaloniki,15,0.0
+Copenhagen,15,16.8
+Rome FCO,15,6.0
+Paris CDG,15,22.714285714285715
+Madrid,15,0.0
+Malaga,15,0.0
+Dusseldorf,15,15.0
+Munich,15,10.76923076923077
+Kos,15,7.5
+Paris Orly,15,5.0
+Cologne/Bonn,15,8.333333333333334
+Stuttgart,15,11.0
+Zadar,15,0.0
+London LCY,15,0.0
+Brussels,15,0.0
+Istanbul IST,15,13.0
+Geneva,15,0.0
+Vienna,15,15.555555555555555
+London LHR,15,2.5
+Chania,15,68.5
+Heraklion,15,0.0
+Frankfurt,15,6.153846153846154
+Izmir ADB,15,0.0
+Rhodos,15,16.666666666666668
+Milan MXP,15,0.0
+Antalya,15,12.142857142857142
+Olbia,15,0.0
+Berlin,15,0.0
+Manchester,15,227.75
+Warsaw,15,0.0
+Vilnius,15,0.0
+Riga,15,33.333333333333336
+Pula,15,0.0
+Strasbourg,15,0.0
+Stockholm ARN,15,41.666666666666664
+Luxembourg,15,0.0
+Helsinki,15,2.0
+Saarbrücken,15,0.0
+Bari,15,0.0
+Paphos,15,0.0
+Marsa Alam,15,4.0
+Oslo,15,27.5
+Kutaisi,15,33.0
+Edinburgh,15,37.5
+Belgrade,15,15.0
+Basel,15,5.0
+Doha,15,10.0
+London LTN,15,0.0
+Birmingham,15,0.0
+New York EWR,15,0.0
+Gothenburg GOT,15,60.0
+Krakow,15,7.5
+New York JFK,15,0.0
+Catania,15,3.0
+London LGW,15,7.0
+Barcelona,15,0.0
+Tunis,15,0.0
+Tel Aviv,15,0.0
+Marrakech,15,0.0
+Athens,15,26.5
+Erbil,15,0.0
+Singapore,15,0.0
+Nice,15,70.0
+Reykjavik,15,0.0
+Istanbul SAW,15,16.75
+Split,15,0.0
+Bologna,15,20.0
+Tivat,15,7.0
+Beirut,15,0.0
+Venice,15,0.0
+Salzburg,15,10.0
+Budapest,15,11.666666666666666
+Beijing,15,0.0
+Milan LIN,15,0.0
+Glasgow,15,0.0
+Porto,15,70.0
+Salerno,15,0.0
+Tallinn,15,25.0
+Pristina,15,21.0
+Cairo,15,60.0
+Nantes,15,65.0
+Bristol,15,0.0
+Milan BGY,15,20.0
+Naples,15,26.0
+Sofia,15,0.0
+Ankara ESB,15,0.0
+Hurghada,15,0.0
+Graz,15,0.0
+Alicante,15,0.0
+Trondheim,15,20.0
+Diyarbakir,15,0.0
+Pisa,15,0.0
+Tirana,15,45.0
+Porto,16,0.0
+Malaga,16,0.0
+Ibiza,16,0.0
+Palma de Mallorca,16,18.176470588235293
+Venice,16,0.0
+Catania,16,30.0
+Tel Aviv,16,17.5
+Amsterdam,16,11.882352941176471
+Monastir,16,0.0
+Lisbon,16,2.0
+Thessaloniki,16,1.1666666666666667
+Valencia,16,0.0
+Paris CDG,16,8.142857142857142
+Pristina,16,23.0
+Dubrovnik,16,0.0
+Munich,16,4.444444444444445
+Paris Orly,16,10.714285714285714
+Riga,16,10.0
+Copenhagen,16,11.5
+Brussels,16,0.0
+Istanbul IST,16,17.5
+Luxembourg,16,0.0
+Vienna,16,16.68421052631579
+Zurich,16,20.61904761904762
+Madrid,16,1.25
+London LHR,16,3.8461538461538463
+Funchal,16,0.0
+Sofia,16,15.0
+Frankfurt,16,3.75
+Izmir ADB,16,26.571428571428573
+Trieste,16,0.0
+Castellón de la Plana,16,0.0
+Chisinau,16,22.5
+Geneva,16,18.333333333333332
+Marseille,16,0.0
+Rome FCO,16,9.6
+Belgrade,16,7.0
+Naples,16,0.0
+Antalya,16,23.76923076923077
+Oslo,16,9.166666666666666
+Doha,16,0.0
+New York EWR,16,0.0
+London LGW,16,0.0
+Chania,16,0.0
+New York JFK,16,-1.6666666666666667
+Dublin,16,0.0
+Tallinn,16,32.5
+Barcelona,16,11.25
+Manchester,16,0.0
+Rhodos,16,0.0
+Zagreb,16,0.0
+Bolzano,16,0.0
+London STN,16,20.833333333333332
+Stuttgart,16,25.625
+Dalaman,16,28.0
+Warsaw,16,6.666666666666667
+Athens,16,13.2
+Baku,16,0.0
+Singapore,16,0.0
+Toulouse,16,0.0
+Corfu,16,9.0
+Kos,16,0.0
+Reykjavik,16,0.0
+Istanbul SAW,16,26.666666666666668
+Olbia,16,0.0
+Nice,16,7.5
+Hurghada,16,0.0
+Helsinki,16,7.5
+Ankara ESB,16,20.0
+Vilnius,16,13.333333333333334
+Milan MXP,16,0.0
+Gothenburg GOT,16,0.0
+Beijing,16,0.0
+Milan LIN,16,8.75
+Tirana,16,22.5
+Heraklion,16,26.666666666666668
+Birmingham,16,0.0
+Bordeaux,16,0.0
+Cologne/Bonn,16,7.5
+Bergen BGO,16,5.0
+Stockholm ARN,16,5.0
+Budapest,16,6.666666666666667
+Cairo,16,23.5
+Dusseldorf,16,5.714285714285714
+Milan BGY,16,6.666666666666667
+London LCY,16,0.0
+Bologna,16,0.0
+Podgorica,16,0.0
+Basel,16,10.333333333333334
+Split,16,15.25
+Salzburg,16,0.0
+Glasgow,16,5.0
+Saarbrücken,16,0.0
+Krakow,16,17.5
+Tbilisi,16,0.0
+Kaunas,16,0.0
+Reggio Calabria,16,0.0
+Skopje,16,0.0
+Graz,16,0.0
+Edinburgh,16,0.0
+Malta,16,0.0
+Lyon,16,38.0
+Bristol,16,0.0
+London LTN,16,0.0
+London LHR,17,0.8333333333333334
+Bucharest,16,0.0
+Varna,16,30.0
+Gran Canaria,16,0.0
+Beirut,16,53.333333333333336
+Erbil,16,40.0
+Larnaca,16,0.0
+Pisa,16,30.0
+Palermo,16,0.0
+Faro,16,0.0
+Tenerife,16,0.0
+Pula,16,142.0
+Zadar,16,13.0
+Bourgas,16,0.0
+Alicante,16,0.0
+Nottingham EMA,16,0.0
+Rijeka,16,0.0
+Iasi,16,24.0
+Samsun Carsamba,16,25.0
+Adana,16,0.0
+Palma de Mallorca,17,8.68421052631579
+Ibiza,17,0.0
+Heraklion,17,2.0
+Naples,17,0.0
+Zurich,17,9.75
+Marseille,17,0.0
+Dublin,17,0.0
+Amsterdam,17,8.666666666666666
+Lisbon,17,0.8333333333333334
+Copenhagen,17,7.7272727272727275
+Rome FCO,17,0.0
+Paris CDG,17,3.5384615384615383
+Malaga,17,0.0
+Dusseldorf,17,7.222222222222222
+Munich,17,5.5
+Kos,17,0.0
+Paris Orly,17,19.0
+Cologne/Bonn,17,17.857142857142858
+Stuttgart,17,10.5
+Zadar,17,0.0
+Frankfurt,17,10.2
+London LCY,17,1.25
+Brussels,17,1.4285714285714286
+Istanbul IST,17,13.333333333333334
+Geneva,17,3.3333333333333335
+Vienna,17,2.5714285714285716
+Chania,17,0.0
+Madrid,17,4.166666666666667
+Rhodos,17,0.0
+Olbia,17,0.0
+Vilnius,17,0.0
+Riga,17,5.0
+Milan LIN,17,10.6
+Strasbourg,17,0.0
+Stockholm ARN,17,7.142857142857143
+Luxembourg,17,23.333333333333332
+Helsinki,17,1.5
+Saarbrücken,17,0.0
+Bari,17,0.0
+Paphos,17,0.0
+Marsa Alam,17,5.0
+Kutaisi,17,0.0
+Nice,17,51.666666666666664
+Edinburgh,17,12.5
+Belgrade,17,60.0
+Antalya,17,21.76923076923077
+Basel,17,7.5
+Doha,17,0.0
+Oslo,17,6.666666666666667
+London LTN,17,0.0
+Birmingham,17,0.0
+New York EWR,17,92.5
+London STN,17,0.0
+Gothenburg GOT,17,0.0
+New York JFK,17,2.0
+Manchester,17,11.25
+Catania,17,2.0
+London LGW,17,13.333333333333334
+Valencia,17,7.666666666666667
+Barcelona,17,0.0
+Tunis,17,0.0
+Tel Aviv,17,6.25
+Warsaw,17,4.0
+Marrakech,17,0.0
+Athens,17,8.333333333333334
+Milan MXP,17,0.0
+Erbil,17,0.0
+Singapore,17,0.0
+Budapest,17,18.0
+Reykjavik,17,0.0
+Istanbul SAW,17,11.571428571428571
+Bologna,17,0.0
+Beirut,17,0.0
+Venice,17,3.3333333333333335
+Salzburg,17,7.5
+Beijing,17,0.0
+Izmir ADB,17,5.0
+Porto,17,0.0
+Tallinn,17,33.333333333333336
+Cairo,17,9.0
+Nantes,17,0.0
+Bristol,17,0.0
+Milan BGY,17,0.0
+Sofia,17,12.5
+Split,17,0.0
+Ankara ESB,17,0.0
+Hurghada,17,0.0
+Krakow,17,0.0
+Graz,17,0.0
+Alicante,17,0.0
+Glasgow,17,18.0
+Trondheim,17,0.0
+Pisa,17,0.0
+Tirana,17,0.0
+Nottingham EMA,17,0.0
+Larnaca,17,65.0
+Castellón de la Plana,17,0.0
+Bourgas,17,0.0
+Thessaloniki,17,0.0
+Pristina,17,0.0
+Dubrovnik,17,49.5
+Reggio Calabria,17,0.0
+Bolzano,17,0.0
+Palermo,17,0.0
+Tenerife,17,53.0
+Pula,17,42.0
+Bastia,17,0.0
+Corfu,17,36.0
+Tbilisi,17,0.0
+Skopje,17,65.0
+Yerevan,17,0.0
+Faro,17,0.0
+Malta,17,0.0
+Adana,17,0.0
+Bucharest,17,0.0
+Palma de Mallorca,24,11.0
+Ibiza,24,0.0
+Zurich,24,26.666666666666668
+Marseille,24,0.0
+Dublin,24,0.0
+Amsterdam,24,46.888888888888886
+Lisbon,24,63.333333333333336
+Thessaloniki,24,0.0
+Copenhagen,24,6.666666666666667
+Rome FCO,24,17.5
+Paris CDG,24,16.142857142857142
+Malaga,24,0.0
+Dusseldorf,24,4.0
+Munich,24,1.25
+Kos,24,0.0
+Paris Orly,24,48.333333333333336
+Cologne/Bonn,24,30.0
+Stuttgart,24,20.833333333333332
+Zadar,24,0.0
+Frankfurt,24,16.428571428571427
+London LCY,24,5.0
+Brussels,24,0.0
+Istanbul IST,24,2.5
+Geneva,24,0.0
+Vienna,24,9.0
+London LHR,24,10.0
+Chania,24,14.5
+Madrid,24,0.0
+Heraklion,24,0.0
+Izmir ADB,24,0.0
+Rhodos,24,0.0
+Antalya,24,16.428571428571427
+Olbia,24,0.0
+Vilnius,24,35.0
+Riga,24,0.0
+Milan LIN,24,20.333333333333332
+Strasbourg,24,0.0
+Stockholm ARN,24,0.0
+Luxembourg,24,0.0
+Helsinki,24,7.0
+Saarbrücken,24,0.0
+Bari,24,0.0
+Paphos,24,0.0
+Marsa Alam,24,3.5
+Oslo,24,17.5
+Kutaisi,24,5.0
+Edinburgh,24,17.0
+Belgrade,24,0.0
+Basel,24,0.0
+Doha,24,0.0
+London LTN,24,0.0
+Birmingham,24,0.0
+New York EWR,24,0.0
+London STN,24,14.25
+Gothenburg GOT,24,0.0
+New York JFK,24,0.0
+Manchester,24,0.0
+Catania,24,-5.0
+London LGW,24,5.0
+Barcelona,24,0.0
+Tunis,24,0.0
+Tel Aviv,24,7.5
+Warsaw,24,0.0
+Marrakech,24,0.0
+Athens,24,0.0
+Milan MXP,24,0.0
+Erbil,24,0.0
+Singapore,24,0.0
+Budapest,24,6.666666666666667
+Reykjavik,24,0.0
+Istanbul SAW,24,18.75
+Split,24,0.0
+Bologna,24,11.666666666666666
+Tivat,24,0.0
+Beirut,24,0.0
+Venice,24,0.0
+Salzburg,24,0.0
+Beijing,24,0.0
+Glasgow,24,0.0
+Porto,24,2.0
+Tallinn,24,0.0
+Pristina,24,0.0
+Cairo,24,0.0
+Nantes,24,0.0
+Bristol,24,23.0
+Milan BGY,24,0.0
+Naples,24,30.0
+Sofia,24,0.0
+Nice,24,70.0
+Ankara ESB,24,0.0
+Hurghada,24,0.0
+Krakow,24,75.0
+Graz,24,0.0
+Alicante,24,15.0
+Trondheim,24,0.0
+Diyarbakir,24,0.0
+Pisa,24,0.0
+Tirana,24,65.0
+Nottingham EMA,24,0.0
+Malaga,25,0.0
+London LGW,25,8.666666666666666
+Brussels,25,6.25
+Bucharest,25,0.0
+Amsterdam,25,1.8
+Varna,25,12.5
+Athens,25,0.0
+Edinburgh,25,0.0
+Riga,25,0.0
+Lisbon,25,13.5
+Marseille,25,0.0
+Paris CDG,25,11.857142857142858
+Gran Canaria,25,10.0
+Naples,25,0.0
+Munich,25,0.0
+Paris Orly,25,8.333333333333334
+Cologne/Bonn,25,0.0
+Kaunas,25,0.0
+Frankfurt,25,0.0
+London LCY,25,0.0
+Istanbul IST,25,30.75
+Funchal,25,0.0
+Stuttgart,25,0.0
+Vienna,25,2.6923076923076925
+Madrid,25,0.0
+Heraklion,25,0.0
+Zurich,25,12.0
+Izmir ADB,25,0.0
+London LHR,25,0.0
+Larnaca,25,35.0
+Corfu,25,0.0
+Antalya,25,29.142857142857142
+Chisinau,25,0.0
+Milan LIN,25,15.0
+Trieste,25,0.0
+Belgrade,25,0.0
+Stockholm ARN,25,0.0
+Dusseldorf,25,0.0
+Luxembourg,25,0.0
+Helsinki,25,11.666666666666666
+Saarbrücken,25,0.0
+Milan BGY,25,0.0
+Palermo,25,0.0
+Oslo,25,0.0
+Split,25,8.666666666666666
+Palma de Mallorca,25,3.3333333333333335
+London STN,25,0.0
+Doha,25,0.0
+New York EWR,25,0.0
+Dublin,25,3.75
+Salzburg,25,0.0
+New York JFK,25,0.0
+Rome FCO,25,-0.5
+Copenhagen,25,0.0
+Malta,25,0.0
+Tel Aviv,25,6.666666666666667
+Manchester,25,0.0
+Warsaw,25,0.0
+Pristina,25,6.0
+Faro,25,0.0
+Baku,25,0.0
+Monastir,25,0.0
+Istanbul SAW,25,10.666666666666666
+Tenerife,25,0.0
+Beirut,25,0.0
+Krakow,25,25.0
+Budapest,25,0.0
+Pula,25,0.0
+Zagreb,25,0.0
+Reykjavik,25,0.0
+Bologna,25,0.0
+Zadar,25,2.0
+Barcelona,25,0.0
+Bourgas,25,71.0
+Nice,25,0.0
+Thessaloniki,25,25.0
+Pisa,25,0.0
+Vilnius,25,0.0
+Birmingham,25,0.0
+Cairo,25,0.0
+Bordeaux,25,0.0
+Nottingham EMA,25,0.0
+Catania,25,0.0
+Milan MXP,25,0.0
+Olbia,25,0.0
+Verona,25,75.0
+Skopje,25,30.0
+Sofia,25,0.0
+Venice,25,0.0
+Ankara ESB,25,0.0
+Geneva,25,25.0
+Tirana,25,0.0
+Rijeka,25,30.0
+Hurghada,25,0.0
+Basel,25,0.0
+Iasi,25,0.0
+Samsun Carsamba,25,60.0
+Bergen BGO,25,20.0
+Bristol,25,10.0
+Ibiza,25,0.0
+Heraklion,26,0.0
+Castellón de la Plana,26,0.0
+Tallinn,26,0.0
+Zadar,26,0.0
+Dublin,26,0.0
+Amsterdam,26,3.3333333333333335
+Bourgas,26,0.0
+Thessaloniki,26,0.0
+Malaga,26,0.0
+Basel,26,0.0
+Copenhagen,26,5.0
+Venice,26,0.0
+Paris CDG,26,16.0
+Cologne/Bonn,26,17.5
+Munich,26,6.363636363636363
+Dusseldorf,26,11.666666666666666
+Paris Orly,26,0.0
+Frankfurt,26,14.923076923076923
+London LCY,26,5.0
+Brussels,26,2.5
+Split,26,20.0
+Stuttgart,26,31.428571428571427
+Vienna,26,14.615384615384615
+Geneva,26,0.0
+Edinburgh,26,0.0
+Madrid,26,0.0
+Zurich,26,19.09090909090909
+Rhodos,26,0.0
+Izmir ADB,26,41.666666666666664
+London LHR,26,0.0
+Chania,26,0.0
+Antalya,26,16.714285714285715
+Palma de Mallorca,26,3.3333333333333335
+Milan LIN,26,0.0
+Pisa,26,35.0
+Milan BGY,26,0.0
+Luxembourg,26,0.0
+Helsinki,26,2.0
+Saarbrücken,26,0.0
+Dubrovnik,26,0.0
+Oslo,26,0.0
+Kutaisi,26,0.0
+Nice,26,3.3333333333333335
+Zagreb,26,110.0
+Doha,26,66.0
+New York EWR,26,0.0
+New York JFK,26,0.0
+Gothenburg GOT,26,0.0
+London LGW,26,15.0
+London STN,26,0.0
+Tel Aviv,26,65.25
+Reggio Calabria,26,0.0
+Barcelona,26,7.0
+Istanbul IST,26,73.0
+Bolzano,26,53.0
+Palermo,26,0.0
+Rome FCO,26,0.0
+Warsaw,26,37.5
+Tenerife,26,0.0
+London LTN,26,0.0
+Athens,26,0.0
+Bologna,26,0.0
+Singapore,26,0.0
+Lisbon,26,10.0
+Olbia,26,0.0
+Reykjavik,26,0.0
+Stockholm ARN,26,15.5
+Istanbul SAW,26,8.333333333333334
+Bastia,26,15.0
+Beirut,26,0.0
+Hurghada,26,0.0
+Podgorica,26,0.0
+Manchester,26,0.0
+Pula,26,23.0
+Beijing,26,0.0
+Corfu,26,28.0
+Budapest,26,40.0
+Bari,26,0.0
+Tbilisi,26,0.0
+Tirana,26,20.0
+Riga,26,17.5
+Porto,26,45.0
+Catania,26,53.0
+Ibiza,26,0.0
+Naples,26,0.0
+Valencia,26,13.5
+Cairo,26,0.0
+Tunis,26,0.0
+Vilnius,26,0.0
+Alicante,26,0.0
+Sofia,26,0.0
+Salzburg,26,22.5
+Skopje,26,0.0
+Belgrade,26,150.0
+Faro,26,0.0
+Marrakech,26,0.0
+Birmingham,26,0.0
+Malta,26,54.0
+Adana,26,80.0
+Bucharest,26,0.0
+Nottingham EMA,26,0.0
+Heraklion,27,0.0
+Malaga,27,20.0
+Palma de Mallorca,27,2.0
+Rome FCO,27,29.666666666666668
+Madrid,27,3.3333333333333335
+Amsterdam,27,2.7777777777777777
+Thessaloniki,27,0.0
+Corfu,27,0.0
+Paris CDG,27,10.428571428571429
+Erbil,27,0.0
+Munich,27,8.181818181818182
+Pristina,27,0.0
+Manchester,27,27.666666666666668
+Krakow,27,0.0
+Paris Orly,27,4.0
+Tallinn,27,0.0
+Frankfurt,27,10.0
+London LCY,27,6.25
+Brussels,27,2.5
+Istanbul IST,27,101.75
+Copenhagen,27,0.0
+Funchal,27,0.0
+Vienna,27,13.0
+London LHR,27,9.0
+Zurich,27,5.0
+Marsa Alam,27,70.0
+Larnaca,27,0.0
+Bucharest,27,15.0
+Antalya,27,22.5
+Stuttgart,27,13.571428571428571
+Cologne/Bonn,27,7.5
+Chisinau,27,39.0
+Riga,27,0.0
+Milan LIN,27,5.666666666666667
+Basel,27,0.0
+Dusseldorf,27,1.6666666666666667
+Belgrade,27,0.0
+Pisa,27,0.0
+Luxembourg,27,0.0
+Helsinki,27,5.0
+Saarbrücken,27,-2.5
+Barcelona,27,1.0
+Izmir ADB,27,0.0
+Stockholm ARN,27,0.0
+Oslo,27,40.0
+Nice,27,0.0
+Kos,27,0.0
+Doha,27,0.0
+New York EWR,27,0.0
+Tirana,27,0.0
+Edinburgh,27,18.0
+New York JFK,27,30.0
+London LGW,27,15.333333333333334
+Dublin,27,0.0
+Tel Aviv,27,0.0
+Hurghada,27,0.0
+Warsaw,27,0.0
+Salzburg,27,30.0
+Bologna,27,0.0
+Athens,27,20.0
+Baku,27,0.0
+Vilnius,27,0.0
+Zadar,27,0.0
+Fuerteventura,27,0.0
+Istanbul SAW,27,12.5
+Pula,27,21.0
+Budapest,27,0.0
+Preveza,27,0.0
+Venice,27,0.0
+Lyon,27,0.0
+Gothenburg GOT,27,0.0
+Beijing,27,0.0
+Reykjavik,27,39.0
+Milan MXP,27,0.0
+London STN,27,31.666666666666668
+Ibiza,27,0.0
+Alicante,27,13.0
+Kaunas,27,0.0
+Naples,27,21.0
+Milan BGY,27,5.0
+Olbia,27,16.0
+Bourgas,27,0.0
+Graz,27,0.0
+Cairo,27,5.0
+Catania,27,10.0
+Palermo,27,0.0
+Marseille,27,0.0
+Lisbon,27,0.0
+Split,27,10.0
+Bristol,27,22.0
+Faro,27,0.0
+Geneva,27,165.5
+Porto,27,0.0
+Strasbourg,27,0.0
+Toulouse,27,0.0
+Dalaman,27,0.0
+Bergen BGO,27,0.0
+Sofia,27,0.0
+Skopje,27,-217.5
+Gaziantep,27,0.0
+Palma de Mallorca,28,24.3
+Ibiza,28,0.0
+Malaga,28,0.0
+Brussels,28,215.0
+Paphos,28,0.0
+Manchester,28,15.25
+Amsterdam,28,56.77777777777778
+Bourgas,28,0.0
+Lisbon,28,3.3333333333333335
+Bari,28,0.0
+Basel,28,0.0
+Porto,28,0.0
+Tivat,28,0.0
+Paris CDG,28,6.875
+Venice,28,3.3333333333333335
+Munich,28,19.8
+London STN,28,8.333333333333334
+Paris Orly,28,8.333333333333334
+Rhodos,28,0.0
+Frankfurt,28,13.846153846153847
+London LCY,28,75.0
+Thessaloniki,28,0.0
+Istanbul IST,28,6.8
+Copenhagen,28,16.25
+London LGW,28,0.0
+Zadar,28,95.0
+Vienna,28,8.5
+Madrid,28,0.0
+London LHR,28,0.0
+Zurich,28,34.416666666666664
+Edinburgh,28,10.333333333333334
+Heraklion,28,0.0
+Izmir ADB,28,0.0
+Antalya,28,67.5
+Stuttgart,28,45.833333333333336
+Budapest,28,-10.0
+Milan LIN,28,20.333333333333332
+Cologne/Bonn,28,32.0
+Verona,28,0.0
+Dusseldorf,28,21.25
+Helsinki,28,33.0
+Sofia,28,0.0
+Oslo,28,10.0
+Kutaisi,28,0.0
+Bordeaux,28,0.0
+Bucharest,28,40.0
+Doha,28,0.0
+New York EWR,28,0.0
+New York JFK,28,0.0
+Nice,28,52.0
+Catania,28,0.0
+Dublin,28,0.0
+Birmingham,28,0.0
+Barcelona,28,17.285714285714285
+Saarbrücken,28,140.0
+Podgorica,28,0.0
+Tel Aviv,28,97.0
+Milan BGY,28,0.0
+Riga,28,12.5
+Warsaw,28,20.0
+Milan MXP,28,0.0
+Athens,28,45.0
+Marrakech,28,0.0
+Singapore,28,0.0
+Bolzano,28,0.0
+Monastir,28,0.0
+Geneva,28,8.0
+Skopje,28,75.0
+Split,28,93.5
+Olbia,28,61.0
+Strasbourg,28,0.0
+Reykjavik,28,0.0
+Istanbul SAW,28,55.0
+Bodrum,28,0.0
+Rome FCO,28,44.2
+Naples,28,18.0
+Beirut,28,0.0
+Gaziantep,28,0.0
+Marseille,28,0.0
+Chania,28,96.0
+Beijing,28,50.0
+Stockholm ARN,28,13.75
+Graz,28,185.0
+Nottingham EMA,28,0.0
+Bologna,28,0.0
+Tallinn,28,27.5
+Cairo,28,30.0
+Nantes,28,0.0
+Valencia,28,0.0
+Kos,28,75.0
+Bristol,28,186.0
+Pula,28,76.0
+Pisa,28,0.0
+Glasgow,28,56.0
+Tunis,28,0.0
+Ankara ESB,28,0.0
+Salzburg,28,20.0
+Gothenburg GOT,28,0.0
+Krakow,28,0.0
+Belgrade,28,15.0
+Zagreb,28,35.0
+Hurghada,28,0.0
+Trondheim,28,0.0
+Luxembourg,28,0.0
+Alicante,28,0.0
+London LTN,28,41.0
+Vilnius,28,0.0
+Tirana,28,0.0
+Yerevan,28,0.0
+Kos,29,0.0
+Varna,29,40.0
+Palma de Mallorca,29,9.090909090909092
+Malaga,29,0.0
+Pula,29,60.0
+Tivat,29,0.0
+Tel Aviv,29,0.0
+Amsterdam,29,3.5714285714285716
+Lisbon,29,62.5
+Thessaloniki,29,0.0
+Edinburgh,29,0.0
+Zadar,29,0.0
+Tenerife,29,18.0
+Paris CDG,29,20.0
+Bourgas,29,0.0
+Gran Canaria,29,0.0
+Munich,29,27.77777777777778
+London LCY,29,0.0
+Split,29,18.333333333333332
+Birmingham,29,70.0
+Larnaca,29,47.5
+Paris Orly,29,15.0
+Ankara ESB,29,7.5
+London LGW,29,0.0
+Manchester,29,15.0
+Krakow,29,0.0
+Frankfurt,29,5.714285714285714
+Brussels,29,20.0
+Istanbul IST,29,13.8
+Copenhagen,29,0.0
+Cologne/Bonn,29,0.0
+Vienna,29,4.0
+Madrid,29,148.66666666666666
+Zurich,29,7.5
+Izmir ADB,29,30.25
+Rhodos,29,10.0
+Naples,29,0.0
+Antalya,29,47.0
+London LHR,29,0.0
+Riga,29,0.0
+Rome FCO,29,10.0
+Belgrade,29,30.0
+Luxembourg,29,0.0
+Helsinki,29,16.25
+Pristina,29,0.5
+Chania,29,0.0
+Hurghada,29,6.666666666666667
+Heraklion,29,25.0
+Nice,29,55.0
+Budapest,29,7.5
+Doha,29,0.0
+New York EWR,29,7.5
+Zakinthos,29,0.0
+Oslo,29,10.0
+New York JFK,29,0.0
+Bastia,29,0.0
+Dublin,29,11.5
+Stuttgart,29,12.5
+Barcelona,29,31.25
+Warsaw,29,0.0
+Stockholm ARN,29,0.0
+Athens,29,78.0
+Pisa,29,4.0
+London STN,29,6.666666666666667
+Singapore,29,0.0
+Bologna,29,0.0
+Vilnius,29,0.0
+Milan BGY,29,0.0
+Fuerteventura,29,0.0
+Bucharest,29,0.0
+Istanbul SAW,29,17.5
+Rijeka,29,12.0
+Basel,29,37.0
+Reykjavik,29,0.0
+Milan LIN,29,0.0
+Tbilisi,29,0.0
+Djerba,29,35.0
+Cairo,29,10.0
+Dubrovnik,29,0.0
+Palermo,29,0.0
+Alicante,29,0.0
+Corfu,29,0.0
+Olbia,29,18.0
+Skopje,29,0.0
+Venice,29,0.0
+Sofia,29,0.0
+Tirana,29,0.0
+Faro,29,40.0
+Iasi,29,35.0
+Kayseri,29,65.0
+Nottingham EMA,29,0.0
+Palma de Mallorca,11,16.5
+Malaga,11,17.5
+Zurich,11,13.055555555555555
+Heraklion,11,4.5
+Castellón de la Plana,11,0.0
+Tallinn,11,10.0
+Zadar,11,0.0
+Dublin,11,30.11111111111111
+Amsterdam,11,28.842105263157894
+Bourgas,11,0.0
+Lisbon,11,20.0
+Thessaloniki,11,0.0
+Venice,11,18.333333333333332
+Paris CDG,11,5.0
+Rome FCO,11,0.0
+Munich,11,12.647058823529411
+Nice,11,40.2
+Dusseldorf,11,28.77777777777778
+Cologne/Bonn,11,8.333333333333334
+Paris Orly,11,7.4
+London LCY,11,0.0
+Brussels,11,26.3
+Istanbul IST,11,28.0
+Valencia,11,40.6
+Stuttgart,11,13.444444444444445
+Vienna,11,15.642857142857142
+Edinburgh,11,0.0
+Madrid,11,30.0
+Frankfurt,11,13.95
+Rhodos,11,0.0
+Izmir ADB,11,93.33333333333333
+London LHR,11,0.0
+Chania,11,0.0
+Antalya,11,10.714285714285714
+Warsaw,11,19.75
+Milan LIN,11,0.0
+Split,11,0.0
+Pisa,11,0.0
+Milan BGY,11,0.0
+Luxembourg,11,30.0
+Helsinki,11,9.0
+Saarbrücken,11,0.0
+Dubrovnik,11,0.0
+Kutaisi,11,0.0
+Basel,11,8.0
+Copenhagen,11,10.714285714285714
+Jeddah,11,0.0
+Doha,11,0.0
+Oslo,11,9.2
+New York EWR,11,0.0
+Naples,11,9.0
+Bastia,11,0.0
+New York JFK,11,0.0
+London LTN,11,0.0
+London LGW,11,0.0
+Gran Canaria,11,0.0
+London STN,11,0.0
+Reggio Calabria,11,0.0
+Barcelona,11,36.294117647058826
+Bolzano,11,0.0
+Tel Aviv,11,60.75
+Gothenburg GOT,11,0.0
+Palermo,11,0.0
+Tenerife,11,10.0
+Athens,11,23.0
+Bologna,11,28.666666666666668
+Singapore,11,0.0
+Milan MXP,11,0.0
+Olbia,11,1.0
+Stockholm ARN,11,13.25
+Reykjavik,11,0.0
+Istanbul SAW,11,12.5
+Beirut,11,0.0
+Hurghada,11,0.0
+Podgorica,11,0.0
+Manchester,11,24.6
+Beijing,11,0.0
+Glasgow,11,0.0
+Budapest,11,28.75
+Bari,11,0.0
+Tirana,11,4.0
+Riga,11,0.0
+Porto,11,34.0
+Ibiza,11,36.0
+Cairo,11,30.0
+Tunis,11,0.0
+Vilnius,11,0.0
+Alicante,11,10.5
+Sofia,11,14.0
+Geneva,11,47.5
+Skopje,11,0.0
+Salzburg,11,0.0
+Belgrade,11,0.0
+Faro,11,16.4
+Marrakech,11,42.0
+Birmingham,11,0.0
+Malta,11,20.0
+,11,
+Bristol,11,50.5
+Bucharest,11,0.0
+Nottingham EMA,11,0.0
+Varna,12,0.0
+Malaga,12,24.833333333333332
+Heraklion,12,0.0
+Rome FCO,12,8.75
+Madrid,12,32.16
+Amsterdam,12,35.42857142857143
+Naples,12,6.0
+London LGW,12,3.3333333333333335
+Corfu,12,0.0
+Paris CDG,12,2.625
+Erbil,12,0.0
+Munich,12,16.705882352941178
+Manchester,12,28.285714285714285
+Krakow,12,18.0
+Paris Orly,12,11.25
+Tallinn,12,0.0
+Frankfurt,12,13.952380952380953
+Palma de Mallorca,12,32.888888888888886
+London LCY,12,10.0
+Brussels,12,22.3
+Istanbul IST,12,2.5
+Valencia,12,32.333333333333336
+Zurich,12,14.823529411764707
+Copenhagen,12,17.88888888888889
+Funchal,12,0.0
+Vienna,12,14.461538461538462
+London LHR,12,10.833333333333334
+Catania,12,0.0
+Marsa Alam,12,0.0
+Izmir ADB,12,6.666666666666667
+Thessaloniki,12,0.0
+Bucharest,12,15.0
+Antalya,12,25.714285714285715
+Stuttgart,12,2.625
+Warsaw,12,29.0
+Cologne/Bonn,12,40.833333333333336
+Riga,12,37.333333333333336
+Venice,12,0.0
+Milan LIN,12,8.666666666666666
+Chisinau,12,0.0
+Geneva,12,32.25
+Dusseldorf,12,18.22222222222222
+Belgrade,12,0.0
+Pisa,12,0.0
+Luxembourg,12,17.25
+Helsinki,12,0.0
+Saarbrücken,12,10.0
+Barcelona,12,37.333333333333336
+Nice,12,46.0
+Kos,12,0.0
+Doha,12,0.0
+Oslo,12,9.2
+New York EWR,12,0.0
+Edinburgh,12,22.75
+New York JFK,12,0.0
+Dublin,12,49.375
+Tel Aviv,12,29.333333333333332
+Hurghada,12,0.0
+Pristina,12,12.0
+Salzburg,12,0.0
+Bologna,12,22.5
+Athens,12,29.8
+Baku,12,0.0
+Toulouse,12,0.0
+Split,12,0.0
+Larnaca,12,26.0
+Vilnius,12,10.0
+Zadar,12,0.0
+Stockholm ARN,12,3.75
+Fuerteventura,12,0.0
+Istanbul SAW,12,0.0
+Bergen BGO,12,0.0
+Budapest,12,15.666666666666666
+Basel,12,13.75
+Beijing,12,0.0
+Lyon,12,85.0
+Gothenburg GOT,12,0.0
+Reykjavik,12,0.0
+Milan MXP,12,0.0
+London STN,12,23.75
+Ibiza,12,13.0
+Alicante,12,30.75
+Kaunas,12,25.0
+Milan BGY,12,35.0
+Graz,12,0.0
+Cairo,12,30.0
+Tirana,12,0.0
+Birmingham,12,31.0
+Palermo,12,0.0
+Marseille,12,29.25
+Lisbon,12,15.0
+Bordeaux,12,24.0
+Olbia,12,3.0
+Bristol,12,27.5
+Faro,12,22.4
+Porto,12,50.4
+Strasbourg,12,0.0
+Dalaman,12,0.0
+Sofia,12,24.5
+Skopje,12,0.0
+Gaziantep,12,0.0
+Recife,7,29.0
+Sao Tome,7,28.0
+"Paris, Ch. de Gaulle",7,48.333333333333336
+"Lyon, St. Exupery",7,43.8
+Terceira,7,30.0
+"Paris, Orly",7,38.714285714285715
+Ponta Delgada,7,42.9
+"Rome, Fiumicino",7,35.714285714285715
+Sevilla,7,18.333333333333332
+"Brussels, Charleroi",7,32.0
+"London, Gatwick",7,67.4
+Madeira,7,49.36363636363637
+"Venice, Marco Polo",7,15.5
+"London, Heathrow",7,49.111111111111114
+"Milan, Malpensa",7,64.5
+Rio de Janeiro,7,53.0
+Horta,7,15.0
+"Stockholm, Arlanda",7,31.0
+"Montreal, Trudeau",7,35.0
+Palma Mallorca,7,97.33333333333333
+"Toulouse, Blagnac",7,30.75
+Praia,7,54.5
+São Vicente,7,37.0
+Bissau,7,26.0
+Marrakech,7,44.666666666666664
+Luanda,7,30.0
+"São Paulo, Guarulhos",7,31.25
+Boa Vista,7,32.0
+"London, Stansted",7,38.5
+Tenerife Sur,7,34.0
+"São Paulo, Viracopos",7,27.0
+Eindhoven,7,37.0
+Brasilia,7,21.0
+Belo Horizonte,7,37.0
+Newark,7,81.66666666666667
+Florianopolis,7,41.0
+"London, Luton",7,77.25
+Hangzhou,7,34.0
+"Washington, Dulles",7,22.333333333333332
+"Berlin, Brandenburg",7,18.5
+Maceio,7,27.0
+"Chicago, O'Hare",7,34.0
+"Milan, Bergamo",7,71.0
+Menorca,7,34.0
+Agadir,7,56.0
+Pico,7,11.0
+Caracas,7,26.0
+Bilbao,7,46.0
+"Paris, Beauvais",7,42.0
+Varadero,7,47.5
+"Helsinki, Vantaa",7,38.0
+"New York, JFK",7,42.0
+Belém,7,19.0
+Salvador,7,33.0
+Fortaleza,7,33.0
+Nantes,7,79.0
+Cologne Bonn,7,46.5
+Porto Santo,7,56.0
+"Dakar, Blaise Diagne",7,25.0
+Sal,7,18.0
+Ankara,7,109.0
+Maputo,8,57.5
+Rio de Janeiro,8,25.333333333333332
+Al Hoceima,7,24.0
+Recife,8,25.333333333333332
+Madeira,8,23.307692307692307
+"Paris, Ch. de Gaulle",8,47.166666666666664
+"Lyon, St. Exupery",8,60.6
+Ponta Delgada,8,28.0
+"Paris, Orly",8,34.357142857142854
+"Milan, Malpensa",8,38.666666666666664
+"Milan, Bergamo",8,71.5
+"Venice, Marco Polo",8,22.666666666666668
+"London, Gatwick",8,55.0
+"London, Heathrow",8,51.63636363636363
+Sevilla,8,22.5
+Pico,8,26.0
+"Paris, Beauvais",8,21.0
+"Berlin, Brandenburg",8,50.333333333333336
+Palma Mallorca,8,38.5
+"Montreal, Trudeau",8,30.5
+Terceira,8,31.0
+"Toulouse, Blagnac",8,26.666666666666668
+Horta,8,29.0
+Praia,8,29.5
+"Rome, Fiumicino",8,53.0
+Luanda,8,32.5
+São Vicente,8,22.0
+Porto Santo,8,64.0
+"São Paulo, Guarulhos",8,33.666666666666664
+Sal,8,19.5
+Brasilia,8,29.0
+"New York, JFK",8,58.333333333333336
+Sao Tome,8,43.0
+"São Paulo, Viracopos",8,14.0
+"London, Stansted",8,80.66666666666667
+Belo Horizonte,8,27.0
+Gran Canaria,8,25.0
+Newark,8,26.0
+"London, Luton",8,83.25
+"Washington, Dulles",8,42.0
+"Chicago, O'Hare",8,36.0
+"Stockholm, Arlanda",8,28.0
+"Brussels, Charleroi",8,25.0
+Cologne Bonn,8,45.0
+Cancun,8,32.0
+Menorca,8,26.0
+"Helsinki, Vantaa",8,23.0
+Oujda,8,56.0
+Bilbao,8,25.0
+Eindhoven,8,27.0
+Salvador,8,49.0
+Santa Maria,8,20.0
+"Malta, Luqa",8,89.0
+Fortaleza,8,33.5
+Natal,8,29.0
+Rotterdam,8,118.0
+Montpellier,8,39.0
+"Dakar, Blaise Diagne",8,27.0
+Zanzibar,8,107.0
+Asturias,8,53.0
+Nador,8,10.0
+Luanda,9,18.0
+"São Paulo, Guarulhos",9,27.5
+Madeira,9,31.25
+"Paris, Ch. de Gaulle",9,36.142857142857146
+"Paris, Orly",9,28.466666666666665
+Poznan,9,11.0
+"Lyon, St. Exupery",9,37.0
+Ponta Delgada,9,52.0
+"Milan, Malpensa",9,141.71428571428572
+"Rome, Fiumicino",9,23.857142857142858
+"London, Gatwick",9,59.4
+"London, Stansted",9,25.666666666666668
+"Venice, Marco Polo",9,13.5
+Sevilla,9,20.75
+"London, Heathrow",9,33.5
+Pico,9,35.0
+"Berlin, Brandenburg",9,70.0
+Palma Mallorca,9,14.0
+"Stockholm, Arlanda",9,34.0
+"Montreal, Trudeau",9,19.666666666666668
+"Toulouse, Blagnac",9,27.0
+Praia,9,17.0
+São Vicente,9,37.0
+Bilbao,9,19.5
+Porto Santo,9,18.0
+Terceira,9,31.0
+"Warsaw, Modlin",9,27.0
+"New York, JFK",9,39.5
+"São Paulo, Viracopos",9,18.0
+Belo Horizonte,9,37.0
+Brasilia,9,25.0
+Mulhouse,9,30.0
+Newark,9,39.0
+Eindhoven,9,32.0
+"London, Luton",9,54.25
+"Washington, Dulles",9,26.0
+Caracas,9,39.0
+"Chicago, O'Hare",9,96.0
+Cologne Bonn,9,140.0
+Florence,9,72.0
+Punta Cana,9,28.0
+"Doha, Hamad",9,48.0
+Menorca,9,79.0
+Horta,9,108.0
+"Brussels, Charleroi",9,82.0
+"Helsinki, Vantaa",9,49.0
+Recife,9,40.0
+Belém,9,28.0
+Natal,9,55.0
+Salvador,9,63.0
+Fortaleza,9,42.0
+"Paris, Beauvais",9,78.0
+"Bucharest, Otopeni",9,142.0
+Rotterdam,9,30.0
+Oujda,9,11.0
+"Dakar, Blaise Diagne",9,28.0
+"Milan, Bergamo",9,50.0
+Sal,9,9.5
+Tanger,9,51.0
+Izmir,9,9.0
+Rio de Janeiro,9,26.0
+Agadir,9,10.0
+Recife,10,18.5
+Madeira,10,22.083333333333332
+"São Paulo, Guarulhos",10,39.333333333333336
+"Paris, Ch. de Gaulle",10,45.6
+"Paris, Orly",10,37.785714285714285
+Ponta Delgada,10,26.625
+Eindhoven,10,34.5
+"Rome, Fiumicino",10,29.833333333333332
+"Toulouse, Blagnac",10,12.5
+"London, Gatwick",10,216.5
+"Venice, Marco Polo",10,34.5
+"London, Heathrow",10,40.81818181818182
+"Milan, Malpensa",10,30.666666666666668
+Sevilla,10,46.333333333333336
+Horta,10,28.5
+Alicante,10,76.0
+Marrakech,10,15.5
+"Montreal, Trudeau",10,41.0
+"Doha, Hamad",10,31.0
+Palma Mallorca,10,40.5
+Bissau,10,17.0
+Brasilia,10,9.0
+Belo Horizonte,10,30.0
+Luanda,10,29.666666666666668
+Terceira,10,37.666666666666664
+Praia,10,31.0
+São Vicente,10,33.0
+Porto Santo,10,31.0
+"Berlin, Brandenburg",10,44.0
+Boa Vista,10,23.0
+Tenerife Sur,10,16.0
+Lanzarote,10,43.0
+"New York, JFK",10,29.0
+"São Paulo, Viracopos",10,29.0
+Florianopolis,10,79.0
+"London, Luton",10,104.75
+Newark,10,30.0
+Aalborg,10,17.0
+Maceio,10,17.0
+"Brussels, Charleroi",10,28.0
+Cayo Coco,10,31.0
+Nantes,10,31.0
+"Washington, Dulles",10,25.0
+Cologne Bonn,10,34.0
+Agadir,10,49.0
+"Lyon, St. Exupery",10,78.0
+Bilbao,10,38.5
+"Malta, Luqa",10,55.0
+"Helsinki, Vantaa",10,63.0
+Maputo,10,63.0
+Bristol,10,208.0
+"Paris, Beauvais",10,169.0
+Salvador,10,33.0
+Fortaleza,10,30.0
+"London, Stansted",10,40.5
+"Milan, Bergamo",10,61.5
+"Dakar, Blaise Diagne",10,33.0
+Sal,10,26.0
+Ankara,10,56.0
+Rio de Janeiro,11,29.5
+Sao Tome,11,23.5
+"São Paulo, Guarulhos",11,41.25
+"Paris, Ch. de Gaulle",11,40.0
+Madeira,11,46.916666666666664
+"Berlin, Brandenburg",11,35.666666666666664
+Ponta Delgada,11,34.77777777777778
+"Paris, Orly",11,31.933333333333334
+Bordeaux,11,52.0
+Prague,11,12.0
+"Rome, Fiumicino",11,34.714285714285715
+Cologne Bonn,11,33.0
+"London, Gatwick",11,40.2
+"Lyon, St. Exupery",11,56.0
+Luanda,11,33.5
+"Venice, Marco Polo",11,35.0
+Florence,11,28.0
+"Milan, Malpensa",11,30.142857142857142
+"London, Heathrow",11,42.5
+Sevilla,11,37.25
+Terceira,11,47.75
+"Toulouse, Blagnac",11,35.5
+Pico,11,42.0
+"Stockholm, Arlanda",11,24.0
+Palma Mallorca,11,32.0
+Hamburg,11,50.0
+"Montreal, Trudeau",11,105.0
+Marseille,11,40.0
+Abu Dhabi,11,31.0
+Bilbao,11,49.0
+Praia,11,82.33333333333333
+São Vicente,11,42.0
+Casablanca,11,35.666666666666664
+Porto Santo,11,58.0
+Rotterdam,11,64.0
+San Francisco,11,20.0
+"New York, JFK",11,30.0
+"São Paulo, Viracopos",11,34.0
+"London, Stansted",11,105.25
+Belo Horizonte,11,29.0
+Eindhoven,11,18.0
+"London, Luton",11,71.25
+Newark,11,40.333333333333336
+Miami,11,49.0
+Toronto,11,54.333333333333336
+"Paris, Beauvais",11,6.5
+Brasilia,11,16.0
+Istanbul,11,19.0
+Philadelphia,11,24.0
+Boston,11,32.333333333333336
+"Brussels, Charleroi",11,2.0
+Menorca,11,40.0
+"Washington, Dulles",11,22.0
+"Chicago, O'Hare",11,41.0
+Dubai,11,45.0
+Cancun,11,31.0
+Horta,11,21.0
+Djerba,11,44.0
+"Helsinki, Vantaa",11,17.0
+Belém,11,19.0
+Recife,11,25.5
+Salvador,11,20.0
+Agadir,11,43.0
+Fortaleza,11,31.0
+"Milan, Bergamo",11,39.0
+"Doha, Hamad",11,35.0
+Nantes,11,47.0
+"Bucharest, Otopeni",11,51.0
+"Dakar, Blaise Diagne",11,53.0
+Sal,11,51.0
+Izmir,11,37.0
+Seoul,11,109.0
+Asturias,11,31.0
+Chisinau,11,29.0
+Luanda,12,19.5
+Rio de Janeiro,12,28.0
+"São Paulo, Guarulhos",12,67.75
+"Paris, Ch. de Gaulle",12,39.5
+Ponta Delgada,12,54.57142857142857
+"Paris, Orly",12,38.333333333333336
+Lisboa,12,17.0
+"Lyon, St. Exupery",12,29.75
+"Rome, Fiumicino",12,32.4
+"London, Gatwick",12,76.8
+Madeira,12,39.6
+"Venice, Marco Polo",12,34.333333333333336
+"Milan, Malpensa",12,44.857142857142854
+"London, Heathrow",12,47.0
+Sevilla,12,47.333333333333336
+Horta,12,33.0
+Palma Mallorca,12,22.0
+Prague,12,43.5
+Marrakech,12,39.0
+"Montreal, Trudeau",12,77.33333333333333
+Terceira,12,26.0
+Eindhoven,12,22.0
+Abu Dhabi,12,53.0
+Hamburg,12,23.666666666666668
+Praia,12,33.5
+São Vicente,12,63.5
+Porto Santo,12,29.0
+Brasilia,12,28.0
+Tenerife Sur,12,29.0
+Cologne Bonn,12,51.0
+San Francisco,12,38.0
+Belo Horizonte,12,66.0
+"London, Luton",12,89.0
+Miami,12,28.0
+Gran Canaria,12,30.0
+Newark,12,42.333333333333336
+Florianopolis,12,37.0
+Toronto,12,77.25
+Nantes,12,59.666666666666664
+Istanbul,12,64.5
+Bilbao,12,22.0
+Hangzhou,12,24.0
+"São Paulo, Viracopos",12,33.0
+Philadelphia,12,24.0
+Boston,12,57.666666666666664
+Caracas,12,27.0
+"Washington, Dulles",12,25.0
+"Berlin, Brandenburg",12,21.0
+Maceio,12,36.0
+Santa Maria,12,45.0
+"Stockholm, Arlanda",12,64.0
+Bissau,12,73.0
+Casablanca,12,30.0
+Dubai,12,39.5
+Florence,12,73.0
+"Toulouse, Blagnac",12,77.66666666666667
+"Warsaw, Modlin",12,30.0
+Pico,12,22.0
+"Helsinki, Vantaa",12,15.0
+"New York, JFK",12,31.0
+Recife,12,26.0
+Belém,12,27.0
+"London, Stansted",12,98.5
+Fortaleza,12,36.0
+"Milan, Bergamo",12,49.0
+Salvador,12,31.0
+Rotterdam,12,32.0
+"Paris, Beauvais",12,69.0
+Montpellier,12,55.0
+Maputo,12,69.0
+"Dakar, Blaise Diagne",12,48.0
+Sal,12,36.0
+"Doha, Hamad",12,39.0
+Ankara,12,65.0
+Tanger,12,43.0
+Djerba,12,41.0
+Rio de Janeiro,13,38.0
+"São Paulo, Guarulhos",13,35.0
+Nador,13,17.0
+Recife,13,20.0
+Madeira,13,41.0
+"Malta, Luqa",13,49.0

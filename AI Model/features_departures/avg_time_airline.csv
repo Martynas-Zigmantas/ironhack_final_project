@@ -1,0 +1,399 @@
+airline,time_of_day_bin,avg_time_airline
+Austrian,1,14.666666666666666
+Swiss International Airlines,1,29.848484848484848
+British Airways,1,26.402635431918007
+Air France,1,11.882352941176471
+Klm - Royal Dutch Airlines,1,39.388888888888886
+Lufthansa,1,9.610687022900763
+Lot Polish Airlines,1,7.045454545454546
+Turkish Airlines,1,18.885714285714286
+Sas - Scandinavian Airlines,1,15.541666666666666
+Aer Lingus,1,19.8
+Brussels Airlines,1,9.782608695652174
+Jetblue,1,12.823529411764707
+Finnair,1,6.571428571428571
+United Airlines,1,25.5
+Tap Portugal,1,23.88235294117647
+Virgin Atlantic,1,30.61111111111111
+American Airlines,1,34.55555555555556
+Qatar Airways,1,41.5
+Air Canada,1,20.555555555555557
+Eurowings,1,10.556862745098039
+Loganair,1,42.875
+British Airways,2,43.326142131979694
+Air France,2,18.285714285714285
+Lufthansa,2,17.54368932038835
+Emirates,2,49.666666666666664
+Austrian,2,44.05882352941177
+Eurowings,2,17.783216783216783
+American Airlines,2,39.05
+Iberia,2,36.361111111111114
+Delta Air Lines,2,20.0
+Aer Lingus,2,29.26388888888889
+Singapore Airlines,2,43.77777777777778
+Etihad Airways,2,45.1
+United Airlines,2,26.145454545454545
+Air Canada,2,36.68181818181818
+Japan Airlines,2,36.25
+Air India,2,85.23529411764706
+Loganair,2,53.31578947368421
+Klm - Royal Dutch Airlines,2,35.125
+Sas - Scandinavian Airlines,2,33.32
+Virgin Atlantic,2,42.69230769230769
+Saudia,2,41.9375
+Gulf Air,2,38.333333333333336
+Lot Polish Airlines,2,22.47222222222222
+Vueling,2,60.0
+Finnair,2,35.55555555555556
+Qatar Airways,2,10.81081081081081
+Km Malta Airlines,2,42.44444444444444
+Malaysia Airlines,2,39.0
+Brussels Airlines,2,22.658536585365855
+Tap Portugal,2,64.55555555555556
+Turkish Airlines,2,31.020408163265305
+Qantas,2,51.0
+Jetblue,2,30.875
+Swiss International Airlines,2,59.875
+Aegean Airlines,2,26.341463414634145
+Cathay Pacific Airways,2,51.375
+Thai Airways,2,36.333333333333336
+Mea,3,40.666666666666664
+United Airlines,3,36.063291139240505
+British Airways,3,46.00978647686833
+American Airlines,3,41.69620253164557
+Virgin Atlantic,3,50.05154639175258
+Icelandair,3,15.945945945945946
+Air India,3,98.9
+Aer Lingus,3,51.23809523809524
+Lufthansa,3,23.142307692307693
+Turkish Airlines,3,39.982142857142854
+Air Serbia,3,55.77777777777778
+Tap Portugal,3,68.45454545454545
+Delta Air Lines,3,30.02857142857143
+Westjet,3,37.111111111111114
+Sas - Scandinavian Airlines,3,28.054054054054053
+Loganair,3,51.625
+Air Canada,3,30.08
+Emirates,3,46.73913043478261
+Swiss International Airlines,3,49.794117647058826
+Eurowings,3,23.306896551724137
+Klm - Royal Dutch Airlines,3,54.5
+Etihad Airways,3,60.77777777777778
+Tarom,3,83.0
+Egyptair,3,74.63636363636364
+Qatar Airways,3,26.270833333333332
+Austrian,3,43.55555555555556
+El Al,3,70.0
+Air France,3,39.32
+Iberia,3,54.15384615384615
+Finnair,3,16.34090909090909
+Saudia,3,45.94736842105263
+Kuwait Airways,3,45.666666666666664
+Cathay Pacific Airways,3,56.9
+Royal Jordanian,3,32.77777777777778
+Bulgaria Air,3,34.22222222222222
+Brussels Airlines,3,66.55555555555556
+United Airlines,4,24.77777777777778
+British Airways,4,42.790281329923275
+Air Canada,4,19.875
+Sas - Scandinavian Airlines,4,24.70212765957447
+Royal Air Maroc,4,46.88235294117647
+Aer Lingus,4,22.364583333333332
+Finnair,4,8.639344262295081
+Lot Polish Airlines,4,28.161290322580644
+Cathay Pacific Airways,4,45.15384615384615
+Virgin Atlantic,4,32.09090909090909
+Kenya Airways,4,57.875
+Air Algerie,4,40.5
+Lufthansa,4,20.164285714285715
+Turkish Airlines,4,38.58490566037736
+Tap Portugal,4,53.72222222222222
+Iberia,4,40.588235294117645
+Emirates,4,36.54761904761905
+Loganair,4,42.53333333333333
+Qatar Airways,4,43.88
+Vietnam Airlines,4,54.666666666666664
+Ana,4,33.44444444444444
+Eurowings,4,23.732142857142858
+Aegean Airlines,4,28.931818181818183
+Klm - Royal Dutch Airlines,4,31.6875
+Swiss International Airlines,4,42.75
+El Al,4,61.23529411764706
+Japan Airlines,4,36.333333333333336
+Austrian,4,33.333333333333336
+Korean Air,4,43.3
+Air France,4,20.863636363636363
+American Airlines,4,56.55555555555556
+Croatia Airlines,4,41.5
+Air China,4,24.19047619047619
+Km Malta Airlines,4,35.6
+Singapore Airlines,4,35.05555555555556
+Asiana Airlines,4,46.44444444444444
+Oman Air,4,35.77777777777778
+China Southern,4,24.85
+Vueling,4,72.44444444444444
+Etihad Airways,4,30.72222222222222
+Ethiopian Airlines,4,32.44444444444444
+Latam Airlines,4,20.88888888888889
+Rwandair,4,27.0
+China Eastern,4,18.333333333333332
+Icelandair,4,36.111111111111114
+Air India,4,-10.23076923076923
+Sri Lankan Airlines,4,45.333333333333336
+Malaysia Airlines,4,25.666666666666668
+Eva Air,4,34.5
+Saudia,4,22.0
+Mea,4,29.88888888888889
+China Airlines,4,44.857142857142854
+Hainan Airlines,4,42.25
+Avianca,4,25.77777777777778
+Gulf Air,4,26.22222222222222
+Egyptair,4,57.7
+Vistara,4,44.888888888888886
+Aeromexico,4,19.333333333333332
+Beijing Capital Airlines,4,17.333333333333332
+Delta Air Lines,1,392.0
+Egyptair,2,75.375
+Vueling,3,51.0
+Air Algerie,3,68.6
+Uzbekistan Airways,3,39.666666666666664
+Aegean Airlines,3,32.6
+Tunisair,3,30.0
+Iran Air,3,45.75
+Air Astana,4,57.0
+Qantas,4,54.0
+Thai Airways,4,30.625
+Kuwait Airways,4,29.333333333333332
+Azerbaijan Airlines,4,37.5
+Kuwait Airways,2,38.333333333333336
+Croatia Airlines,3,27.142857142857142
+Royal Brunei Airlines,3,60.333333333333336
+Biman Bangladesh Airlines,4,26.5
+Tianjin Airlines,4,10.25
+Shenzhen Airlines,4,9.0
+Malaysia Airlines,1,123.0
+Bulgaria Air,1,58.0
+Vietnam Airlines,3,40.0
+Air Serbia,4,48.166666666666664
+El Al,1,46.0
+Iberia,1,20.9
+Sundair,1,0.0
+Easyjet Europe,1,7.86322188449848
+Ryanair,1,7.983974358974359
+Klm Royal Dutch Airlines,1,2.4074074074074074
+Tap Air Portugal,1,26.20909090909091
+Transavia France,1,9.275
+Austrian Airlines,1,-0.30303030303030304
+Iberia Express,1,13.96551724137931
+Swiss,1,1.0714285714285714
+Sun Express,1,10.716981132075471
+Air Baltic,1,6.944444444444445
+Volotea Airlines,1,1.25
+Luxair,1,0.0
+Danish Air Transport,1,11.3125
+Austrian Airlines,2,2.4285714285714284
+Sundair,2,0.0
+Ryanair,2,6.040462427745664
+Klm Royal Dutch Airlines,2,7.6923076923076925
+Air Cairo,2,8.75
+Norwegian Air Shuttle,2,7.972972972972973
+Wizz Air,2,10.142857142857142
+Easyjet Europe,2,14.683982683982684
+Air Serbia,2,23.875
+Pegasus Airlines,2,42.41025641025641
+Swiss,2,6.553571428571429
+Easyjet Uk,2,10.686274509803921
+Sas-Scandinavian Airlines System,2,2.891891891891892
+Corendon Airlines Europe,2,1.9230769230769231
+Vueling Airlines,2,14.0
+Nouvelair Tunisie,2,0.7692307692307693
+El Al- Israel Airlines,2,9.041666666666666
+Sun Express,2,10.636363636363637
+Iberia Express,2,5.928571428571429
+Ur Airlines,2,0.0
+Scoot,2,0.0
+Freebird Airlines,2,23.333333333333332
+One-Two-Go Airlines,2,3.2666666666666666
+Valujet Airlines,2,3.5714285714285716
+Sundair,3,-2.5806451612903225
+Tap Air Portugal,3,41.78115501519757
+Easyjet Europe,3,21.657232704402517
+Pegasus Airlines,3,23.57894736842105
+Ryanair,3,13.690537084398978
+Norwegian Air,3,13.80952380952381
+Hainan Airlines,3,2.6315789473684212
+Easyjet Uk,3,22.833333333333332
+Klm Royal Dutch Airlines,3,17.618181818181817
+Sun Express,3,18.94736842105263
+Swiss,3,23.604166666666668
+Transavia France,3,24.64
+Vueling Airlines,3,23.322580645161292
+Sas-Scandinavian Airlines System,3,7.257142857142857
+Austrian Airlines,3,7.087719298245614
+Air Baltic,3,26.26086956521739
+Egypt Air,3,23.925925925925927
+Ryanair Uk,3,14.428571428571429
+Wizz Air,3,32.96666666666667
+Ryanair,4,18.908847184986595
+Easyjet Europe,4,19.378600823045268
+Austrian Airlines,4,8.235294117647058
+Swiss,4,22.810126582278482
+Brussels Airlines,4,17.96969696969697
+Klm Royal Dutch Airlines,4,11.866666666666667
+Pegasus Airlines,4,47.06
+Valujet Airlines,4,7.916666666666667
+Norse Atlantic Airways,4,2.5
+Air Cairo,4,2.5
+Air Baltic,4,26.526315789473685
+Iberia Express,4,0.38461538461538464
+Norwegian Air Shuttle,4,9.394736842105264
+Luxair,4,8.166666666666666
+Sun Express,4,10.640625
+Sas-Scandinavian Airlines System,4,3.128205128205128
+Easyjet Switzerland,4,25.666666666666668
+Aero Services Executive,4,2.8
+El Al- Israel Airlines,4,4.636363636363637
+Vueling Airlines,4,20.5
+Icelandair,1,0.0
+Fly One,1,21.75
+Wizz Air,1,0.625
+Air Malta,2,8.0
+Azerbaijan Airlines,2,13.181818181818182
+Aero Services Executive,3,24.48
+Volotea Airlines,3,52.0
+Transavia France,4,32.17857142857143
+Corendon Airlines,4,23.333333333333332
+Wizz Air,4,13.88888888888889
+Easyjet Uk,4,15.0
+Windjet,1,0.0
+Bluebird Airways,2,20.3
+Air Cairo,3,8.88888888888889
+Georgian Airways,3,1.4285714285714286
+Nouvelair Tunisie,3,14.75
+Danish Air Transport,4,20.789473684210527
+Air Malta,4,11.75
+Air Cairo,1,23.333333333333332
+Easyjet Switzerland,1,11.909090909090908
+Air Baltic,2,16.428571428571427
+Norwegian Air Shuttle,3,12.083333333333334
+Med-View Airline,3,0.0
+Israir,4,29.857142857142858
+Volotea Airlines,4,16.833333333333332
+Corendon Airlines Europe,4,0.0
+Norwegian Air,4,18.25
+Pegasus Airlines,1,20.0
+Nesma Airlines,1,0.0
+Easyjet Switzerland,3,21.2
+Star East Airlines,4,0.0
+Danish Air Transport,2,195.0
+Iraqi Airways,3,0.0
+Lauda Europe,3,0.0
+Freebird Airlines,4,0.0
+Nouvelair Tunisie,4,0.0
+Aero Services Executive,1,8.333333333333334
+Norwegian Air,2,28.25
+Croatia Airlines,2,24.0
+Easyjet Switzerland,2,24.166666666666668
+Zimex Aviation,3,0.0
+Tui Fly,3,0.0
+Bulgaria Air,4,28.0
+Alitalia,3,0.0
+Lauda Europe,1,0.0
+Flynas,2,0.0
+Bluebird Airways,3,0.0
+Sundair,4,0.0
+Israir,2,20.0
+Aero Services Executive,2,0.0
+Iberia Express,3,0.0
+Germanwings,2,0.0
+Eastern Airways,4,0.0
+Titan Airways,1,0.0
+Amelia International,1,0.0
+Malta Air,1,0.0
+Jetline International,2,0.0
+Eagle Aviation Gmbh,2,0.0
+Zimex Aviation,2,0.0
+Air Europa,2,28.142857142857142
+Enter Air,3,0.0
+Alba Star,3,0.0
+Air Europa,3,38.142857142857146
+Pan Européenne Air Service,4,0.0
+Lot Polish Airlines,3,0.0
+Germanwings,4,0.0
+Israir,3,20.0
+,4,
+Private Wings,4,0.0
+Tui Fly,2,0.0
+Jetline International,3,0.0
+Arkia Israeli Airlines,4,190.0
+Volotea Airlines,2,0.0
+Star East Airlines,3,0.0
+Tap Air Portugal,4,36.32669322709163
+Stp Airways,4,29.0
+Wizz Air Hungary,4,89.55555555555556
+Klm,1,23.333333333333332
+Azores Airlines,1,23.11764705882353
+Swiss International,1,27.666666666666668
+Air Europa,1,38.333333333333336
+Air Transat,1,37.833333333333336
+Vueling Airlines,1,24.166666666666668
+Transavia,1,16.0
+Tap Air Portugal,2,33.821596244131456
+Taag,2,33.5
+Tam Linhas Aéreas,2,72.83333333333333
+Azores Airlines,2,30.5
+Azul Linhas Aereas,2,25.0
+Transavia,2,42.0
+Easyjet Airlines,2,42.09090909090909
+Klm,2,39.166666666666664
+Air Transat,2,51.0
+Beijing Capital,2,29.0
+Transavia France,2,43.142857142857146
+Swiss International,2,55.0
+Azul Linhas Aereas,3,28.0
+Azores Airlines,3,38.07142857142857
+Royal Air Maroc,3,30.0
+Klm,3,54.0
+Swiss International,3,47.25
+World2Fly Portugal,3,23.75
+Easyjet Airlines,3,125.81818181818181
+Tacv,3,71.0
+Orbest,3,50.333333333333336
+Transavia,4,43.7
+Azores Airlines,4,35.5
+Klm,4,64.83333333333333
+Air Europa,4,60.5
+Easyjet Airlines,4,102.5
+Wizz Air Uk,4,33.666666666666664
+Smartwings A.S.,4,29.0
+Nouvelair,4,53.5
+Flyone,4,62.666666666666664
+Taag,4,24.333333333333332
+Lam,4,74.0
+Etihad Airways,1,37.333333333333336
+Norwegian Air Sweden,2,28.0
+Air Nostrum,3,56.0
+Norwegian Air Sweden,3,56.5
+Transavia,3,32.0
+Air Albania,4,38.0
+"Hi Fly, Ltd",4,107.0
+Volotea,4,42.0
+Taag,1,27.0
+Air Algerie,2,34.0
+Luxair,2,65.0
+Wizz Air Malta,4,96.5
+Flyplay,4,18.0
+Tunisair,4,19.0
+Easyjet Airlines,1,623.0
+Jet2.Com,2,43.0
+Jettime A/S,2,17.0
+World2Fly Portugal,2,31.0
+Luxair,3,27.0
+,3,
+Lam,3,103.0
+Tacv,4,103.0
+Neos,4,94.0
+Israir Airlines,4,72.0
+Ryanair Uk,4,75.0
+Norwegian Air Sweden,4,40.0
+Air Horizont,4,41.0

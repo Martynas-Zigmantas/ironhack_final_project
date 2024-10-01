@@ -1,0 +1,5 @@
+airline,departure_city,destination_city,departure_time_scheduled,date_depart,departure_datetime,time_of_day_bin,day,avg_day_destination,avg_time_airline,avg_day_airline,avg_day_airport,average_departure_time_difference,Prediction
+British Airways,London,Barcelona,11:05:00,2024-09-30,2024-09-30 11:05:00,2,30,,43.326142131979694,,,40.67249037607344,Long Delay
+Norwegian Air,Berlin,Copenhagen,17:25:00,2024-09-30,2024-09-30 17:25:00,3,30,,13.80952380952381,,,15.537037037037036,On-Time
+Turkish Airlines,Lisbon,Istanbul,16:25:00,2024-09-29,2024-09-29 16:25:00,3,29,,39.98214285714285,13.8,,33.49740932642487,Long Delay
+Ryanair,Berlin,Rome FCO,18:00:00,2024-09-29,2024-09-29 18:00:00,4,29,10.0,18.908847184986595,9.615384615384617,15.976958525345625,11.945850914205344,On-Time
