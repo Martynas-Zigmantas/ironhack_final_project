@@ -72,7 +72,7 @@
 
 <div align="center">
   <a href="https://github.com/Martynas-Zigmantas/ironhack_final_project">
-    <img src="AI Model/images/screen_shot.png" alt="Screen shot" width="500" height="150">
+    <img src="AI Model/images/screen_shot.png" alt="Screen shot" width="1000" height="300">
   </a>
 </div>
 
