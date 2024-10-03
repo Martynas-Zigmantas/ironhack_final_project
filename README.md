@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Martynas-Zigmantas/ironhack_final_project">
-    <img src="AI Model/images/home_image.png" alt="Logo" width="200" height="40">
+    <img src="AI Model/images/home_image.png" alt="Logo" width="1000" height="200">
   </a>
 
   <h3 align="center">ironhack_final_project</h3>
