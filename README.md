@@ -104,6 +104,7 @@ Use the `BLANK_README.md` to get started.
 * [![MySQL][MySQL.js]][MySQL-url]
 * [![Tableau][Tableau.js]][Tableau-url]
 * [![Streamlit][Streamlit.js]][Streamlit-url]
+* [![Python][Python.js]][Python-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -206,6 +207,8 @@ Project Link: [https://github.com/Martynas-Zigmantas/ironhack_final_project](htt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/martynas-zigmantas/
 [product-screenshot]: images/screenshot.png
+[Python.js]: https://img.shields.io/badge/python%203-3776AB?style=for-the-badge&logo=python&logoColor=white
+[Python-url]: https://www.python.org/
 [Pandas.js]: https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
 [Pandas-url]: https://pandas.pydata.org/
 [Numpy.js]: https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white
