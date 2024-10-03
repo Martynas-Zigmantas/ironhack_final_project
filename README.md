@@ -78,6 +78,7 @@
   </a>
 </div>
 
+
 I wanted to create tool that would allow the user to organise their travel plan. With a visual dashboard that gives direct insight to the available destinations from a selected airport and the airlines that can take you there. Along with that a machine learning model that can give the user a prediction of the chance of tardiness and an estimation of it.
 
 Here's how:
@@ -202,21 +203,13 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Martynas Zigmantas - [My LinkedIn](https://www.linkedin.com/in/martynas-zigmantas) - mz124512@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Martynas-Zigmantas/ironhack_final_project](https://github.com/Martynas-Zigmantas/ironhack_final_project)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
