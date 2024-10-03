@@ -151,29 +151,21 @@ _Below is an example of how you can instruct your audience on installing and set
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
+- [x] Scrape raw data
+- [x] Transform data into tables
+- [x] Create and update database
+- [x] Create visual dashboard
+- [x] Extract and engineer features
+- [x] Train predictive models
+- [x] Deploy Streamlit app with predictive models
+- [ ] Embed interactive dashboard into Streamlit app
 - [ ] Multi-language Support
+    - [x] English
     - [ ] Chinese
     - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
