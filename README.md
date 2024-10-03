@@ -147,7 +147,7 @@ _Follow the step by step instructions below._
 		   .\venv\Scripts\activate
 		   ```
 
-5. Install the libraries/dependencies from `requirements.txt`
+5. Install `requirements.txt`
    ```sh
    pip install -r requirements.txt
    ```
