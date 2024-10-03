@@ -133,8 +133,8 @@ _Follow the step by step instructions below._
 3. Activate the virtual environment
 
 *	On Mac:
-   ```sh
-   source venv/bin/activate
+	   ```sh
+	   source venv/bin/activate
    ```
 *	On Windows:
 	   ```sh
