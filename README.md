@@ -125,12 +125,18 @@ _Follow the step by step instructions below._
    ```sh
    git clone https://github.com/Martynas-Zigmantas/ironhack_final_project.git
    ```
-2. Create a new virtual environment in your IDE
+
+2. Set the directory to `ironhack_final_project/AI Model`
+   ```sh
+   cd ironhack_final_project/AI Model
+   ```
+
+3. Create a new virtual environment in your IDE
    ```sh
    python3 -m venv env
    ```
 
-3. Activate the virtual environment
+4. Activate the virtual environment
 
     *	On Mac:
 		   ```sh
@@ -141,14 +147,13 @@ _Follow the step by step instructions below._
 		   .\venv\Scripts\activate
 		   ```
 
-4. Install the libraries/dependencies from `requirements.txt`
+5. Install the libraries/dependencies from `requirements.txt`
    ```sh
    pip install -r requirements.txt
    ```
-5. Change git remote url to avoid accidental pushes to base project
+6. In the terminal, run the Streamlit app
    ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
+   streamlit run app.py
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
