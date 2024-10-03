@@ -69,6 +69,8 @@
 </details>
 
 
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
 <div align="center">
   <a href="https://github.com/Martynas-Zigmantas/ironhack_final_project">
