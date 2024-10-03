@@ -123,12 +123,23 @@ _Follow the step by step instructions below._
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/Martynas-Zigmantas/ironhack_final_project.git
    ```
-2. Install NPM packages
+2. Create a new virtual environment in your IDE
    ```sh
-   npm install
+   python3 -m venv env
    ```
+
+3. Activate the virtual environment
+   *On Mac:
+	   ```sh
+	   source venv/bin/activate
+	   ```
+   *On Windows:
+	   ```sh
+	   .\venv\Scripts\activate
+	   ```
+
 3. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
