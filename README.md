@@ -70,10 +70,11 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<div align="center">
+  <a href="https://github.com/Martynas-Zigmantas/ironhack_final_project">
+    <img src="AI Model/images/screen_shot.png" alt="Screen shot" width="500" height="150">
+  </a>
+</div>
 
 I wanted to create tool that would allow the user to organise their travel plan. With a visual dashboard that gives direct insight to the available destinations from a selected airport and the airlines that can take you there. Along with that a machine learning model that can give the user a prediction of the chance of tardiness and an estimation of it.
 
