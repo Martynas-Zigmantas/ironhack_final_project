@@ -30,11 +30,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/Martynas-Zigmantas/ironhack_final_project">
     <img src="/Users/martynas/Desktop/Ironhack/Project - Final/AI Model/images/home_image.png" alt="Logo" width="200" height="40">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">ironhack_final_project</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
