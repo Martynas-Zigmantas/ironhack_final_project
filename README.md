@@ -135,7 +135,7 @@ _Follow the step by step instructions below._
 *	On Mac:
 	   ```sh
 	   source venv/bin/activate
-   ```
+	   ```
 *	On Windows:
 	   ```sh
 	   .\venv\Scripts\activate
