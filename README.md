@@ -162,6 +162,7 @@ _Below is an example of how you can instruct your audience on installing and set
 - [x] Train predictive models
 - [x] Deploy Streamlit app with predictive models
 - [ ] Embed interactive dashboard into Streamlit app
+- [ ] Display bulk predictions in app
 - [ ] Multi-language Support
     - [x] English
     - [ ] Chinese
