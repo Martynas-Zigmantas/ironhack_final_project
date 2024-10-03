@@ -82,13 +82,13 @@
 I wanted to create tool that would allow the user to organise their travel plan. With a visual dashboard that gives direct insight to the available destinations from a selected airport and the airlines that can take you there. Along with that a machine learning model that can give the user a prediction of the chance of tardiness and an estimation of it.
 
 Here's how:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+* Created and maintained a complete pipeline from extraction to transformation, storage and automated appending of new data
+* Scraped roughly 40,000 flight records from 3 different airports in Europe
+* Transformed the data to make tables
+* Create interactive visual dashboard
+* Extract and engineer features for training the predictive models
+* Deploy the model and dashboard to a web application
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
