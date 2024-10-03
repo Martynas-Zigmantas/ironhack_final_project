@@ -137,15 +137,15 @@ _Follow the step by step instructions below._
 		   source venv/bin/activate
 		   ```
     *	On Windows:
-	   ```sh
-	   .\venv\Scripts\activate
-	   ```
+		   ```sh
+		   .\venv\Scripts\activate
+		   ```
 
-3. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+4. Install the libraries/dependencies from `requirements.txt`
+   ```sh
+   pip install -r requirements.txt
    ```
-4. Change git remote url to avoid accidental pushes to base project
+5. Change git remote url to avoid accidental pushes to base project
    ```sh
    git remote set-url origin github_username/repo_name
    git remote -v # confirm the changes
