@@ -194,7 +194,7 @@ Don't forget to give the project a star! Thanks again!
 ### Top contributors:
 
 <a href="https://github.com/Martynas-Zigmantas/ironhack_final_project/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Martynas-Zigmantas/ironhack_final_project" alt="contrib.rocks image" />
+  <img src="https://contrib.rocks/image?repo=Martynas-Zigmantas/ironhack_final_project" alt="contribution.rocks image" />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
