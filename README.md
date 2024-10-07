@@ -193,10 +193,6 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/github_username/repo_name/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="contrib.rocks image" />
-</a>
-
 <a href="https://github.com/Martynas-Zigmantas/ironhack_final_project/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Martynas-Zigmantas/ironhack_final_project" alt="contribution.rocks image" />
 </a>
@@ -219,6 +215,8 @@ Project Link: [https://github.com/Martynas-Zigmantas/ironhack_final_project](htt
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/Martynas-Zigmantas/ironhack_final_project.svg?style=for-the-badge
+[contributors-url]: https://github.com/Martynas-Zigmantas/ironhack_final_project/graphs/contributors
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/martynas-zigmantas/
 [product-screenshot]: images/screenshot.png
