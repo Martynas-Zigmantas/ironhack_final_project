@@ -193,6 +193,10 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
+<a href="https://github.com/github_username/repo_name/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="contrib.rocks image" />
+</a>
+
 <a href="https://github.com/Martynas-Zigmantas/ironhack_final_project/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Martynas-Zigmantas/ironhack_final_project" alt="contribution.rocks image" />
 </a>
