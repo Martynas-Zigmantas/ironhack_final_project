@@ -19,11 +19,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- PROJECT LOGO -->
@@ -197,6 +192,10 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 ### Top contributors:
+
+<a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
+</a>
 
 <a href="https://github.com/Martynas-Zigmantas/ironhack_final_project/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Martynas-Zigmantas/ironhack_final_project" alt="contribution.rocks image" />
