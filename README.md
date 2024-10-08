@@ -197,7 +197,6 @@ Don't forget to give the project a star! Thanks again!
 </a>
 
 
-[![Contributors][Contributors.js]][Contributors-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -221,8 +220,6 @@ Project Link: [https://github.com/Martynas-Zigmantas/ironhack_final_project](htt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/martynas-zigmantas/
 [product-screenshot]: images/screenshot.png
-[Contributors.js]: images/contributor_img.svg
-[Contributors-url]: https://github.com/Martynas-Zigmantas/ironhack_final_project/graphs/contributors
 [Python.js]: https://img.shields.io/badge/python%203-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
 [Pandas.js]: https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
